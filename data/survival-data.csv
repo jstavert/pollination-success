@@ -1,0 +1,1949 @@
+flow.stigma,stigmanum,uID,No.visits,year,Farm,Treatment,tc,variable,value,time,valbin
+6,A,199cos_c_st009,na,2018,rizzatto,C,Control,TotPollen,0,1,1
+6,B,199cos_c_st009,na,2018,rizzatto,C,Control,TotPollen,0,1,1
+6,C,199cos_c_st009,na,2018,rizzatto,C,Control,TotPollen,0,1,1
+6,D,199cos_c_st009,na,2018,rizzatto,C,Control,TotPollen,1,1,0
+6,E,199cos_c_st009,na,2018,rizzatto,C,Control,TotPollen,0,1,1
+211,A,139for_c_st020,na,2018,savio,C,Control,TotPollen,341,1,0
+211,B,139for_c_st020,na,2018,savio,C,Control,TotPollen,0,1,1
+211,C,139for_c_st020,na,2018,savio,C,Control,TotPollen,81,1,0
+288,E,139for_c_st009,na,2018,savio,C,Control,TotPollen,34,1,0
+288,D,139for_c_st009,na,2018,savio,C,Control,TotPollen,60,1,0
+288,C,139for_c_st009,na,2018,savio,C,Control,TotPollen,14,1,0
+288,B,139for_c_st009,na,2018,savio,C,Control,TotPollen,37,1,0
+288,A,139for_c_st009,na,2018,savio,C,Control,TotPollen,21,1,0
+97,a,179pit_c_st012,na,2018,fastfruit,C,Control,TotPollen,0,1,1
+97,b,179pit_c_st012,na,2018,fastfruit,C,Control,TotPollen,1,1,0
+97,c,179pit_c_st012,na,2018,fastfruit,C,Control,TotPollen,0,1,1
+97,d,179pit_c_st012,na,2018,fastfruit,C,Control,TotPollen,0,1,1
+97,e,179pit_c_st012,na,2018,fastfruit,C,Control,TotPollen,0,1,1
+110,a,159pom_c_st002a,NA,2018,ausfarm,C,Control,TotPollen,29,1,0
+110,b,159pom_c_st002a,NA,2018,ausfarm,C,Control,TotPollen,54,1,0
+110,c,159pom_c_st002a,NA,2018,ausfarm,C,Control,TotPollen,96,1,0
+110,d,159pom_c_st002a,NA,2018,ausfarm,C,Control,TotPollen,124,1,0
+110,e,159pom_c_st002a,NA,2018,ausfarm,C,Control,TotPollen,38,1,0
+14,A,2029,na,2017,Ausfarm,C,Control,TotPollen,26,1,0
+14,B,2029,na,2017,Ausfarm,C,Control,TotPollen,2,1,0
+14,C,2029,na,2017,Ausfarm,C,Control,TotPollen,21,1,0
+14,D,2029,na,2017,Ausfarm,C,Control,TotPollen,6,1,0
+14,E,2029,na,2017,Ausfarm,C,Control,TotPollen,9,1,0
+16,A,5001,na,2017,Ausfarm,C,Control,TotPollen,6,1,0
+16,B,5001,na,2017,Ausfarm,C,Control,TotPollen,18,1,0
+16,C,5001,na,2017,Ausfarm,C,Control,TotPollen,5,1,0
+16,D,5001,na,2017,Ausfarm,C,Control,TotPollen,18,1,0
+16,E,5001,na,2017,Ausfarm,C,Control,TotPollen,33,1,0
+17,A,5008,na,2017,Ausfarm,C,Control,TotPollen,0,1,1
+17,B,5008,na,2017,Ausfarm,C,Control,TotPollen,0,1,1
+17,C,5008,na,2017,Ausfarm,C,Control,TotPollen,0,1,1
+17,D,5008,na,2017,Ausfarm,C,Control,TotPollen,0,1,1
+17,E,5008,na,2017,Ausfarm,C,Control,TotPollen,0,1,1
+1,A,5007,na,2017,Ausfarm,C,Control,TotPollen,144,1,0
+1,B,5007,na,2017,Ausfarm,C,Control,TotPollen,81,1,0
+1,C,5007,na,2017,Ausfarm,C,Control,TotPollen,91,1,0
+1,D,5007,na,2017,Ausfarm,C,Control,TotPollen,53,1,0
+21,A,5011,na,2017,Ausfarm,C,Control,TotPollen,8,1,0
+21,B,5011,na,2017,Ausfarm,C,Control,TotPollen,1,1,0
+21,C,5011,na,2017,Ausfarm,C,Control,TotPollen,2,1,0
+27,A,50,na,2017,Savio,C,Control,TotPollen,33,1,0
+27,B,50,na,2017,Savio,C,Control,TotPollen,21,1,0
+27,C,50,na,2017,Savio,C,Control,TotPollen,12,1,0
+27,D,50,na,2017,Savio,C,Control,TotPollen,0,1,1
+27,E,50,na,2017,Savio,C,Control,TotPollen,0,1,1
+2,A,5002,na,2017,Ausfarm,C,Control,TotPollen,15,1,0
+2,B,5002,na,2017,Ausfarm,C,Control,TotPollen,0,1,1
+2,C,5002,na,2017,Ausfarm,C,Control,TotPollen,4,1,0
+2,D,5002,na,2017,Ausfarm,C,Control,TotPollen,1,1,0
+2,E,5002,na,2017,Ausfarm,C,Control,TotPollen,20,1,0
+35,A,5020,na,2017,Ausfarm,C,Control,TotPollen,0,1,1
+35,B,5020,na,2017,Ausfarm,C,Control,TotPollen,0,1,1
+35,C,5020,na,2017,Ausfarm,C,Control,TotPollen,1,1,0
+35,D,5020,na,2017,Ausfarm,C,Control,TotPollen,0,1,1
+3,A,101,na,2017,Nicoletti,C,Control,TotPollen,0,1,1
+3,B,101,na,2017,Nicoletti,C,Control,TotPollen,0,1,1
+3,C,101,na,2017,Nicoletti,C,Control,TotPollen,0,1,1
+3,D,101,na,2017,Nicoletti,C,Control,TotPollen,0,1,1
+5,A,90,na,2017,Nicoletti,C,Control,TotPollen,0,1,1
+5,B,90,na,2017,Nicoletti,C,Control,TotPollen,0,1,1
+5,C,90,na,2017,Nicoletti,C,Control,TotPollen,2,1,0
+5,D,90,na,2017,Nicoletti,C,Control,TotPollen,0,1,1
+5,E,90,na,2017,Nicoletti,C,Control,TotPollen,0,1,1
+6,A,3001,na,2017,Ausfarm,C,Control,TotPollen,9,1,0
+6,B,3001,na,2017,Ausfarm,C,Control,TotPollen,94,1,0
+6,C,3001,na,2017,Ausfarm,C,Control,TotPollen,71,1,0
+6,D,3001,na,2017,Ausfarm,C,Control,TotPollen,364,1,0
+6,E,3001,na,2017,Ausfarm,C,Control,TotPollen,52,1,0
+8,A,2017,na,2017,Savio,C,Control,TotPollen,0,1,1
+8,B,2017,na,2017,Savio,C,Control,TotPollen,0,1,1
+8,C,2017,na,2017,Savio,C,Control,TotPollen,0,1,1
+8,D,2017,na,2017,Savio,C,Control,TotPollen,0,1,1
+8,E,2017,na,2017,Savio,C,Control,TotPollen,0,1,1
+8,A,1710for_hp_st003,NA,2018,savio,HP,Hand pollinated,TotPollen,318,1,0
+8,B,1710for_hp_st003,NA,2018,savio,HP,Hand pollinated,TotPollen,116,1,0
+8,C,1710for_hp_st003,NA,2018,savio,HP,Hand pollinated,TotPollen,223,1,0
+8,D,1710for_hp_st003,NA,2018,savio,HP,Hand pollinated,TotPollen,264,1,0
+8,E,1710for_hp_st003,NA,2018,savio,HP,Hand pollinated,TotPollen,435,1,0
+18,A,219pit_hp_st305,NA,2018,fastfruit,HP,Hand pollinated,TotPollen,20,1,0
+18,B,219pit_hp_st305,NA,2018,fastfruit,HP,Hand pollinated,TotPollen,26,1,0
+18,C,219pit_hp_st305,NA,2018,fastfruit,HP,Hand pollinated,TotPollen,3,1,0
+18,D,219pit_hp_st305,NA,2018,fastfruit,HP,Hand pollinated,TotPollen,54,1,0
+18,E,219pit_hp_st305,NA,2018,fastfruit,HP,Hand pollinated,TotPollen,11,1,0
+18,F,219pit_hp_st305,NA,2018,fastfruit,HP,Hand pollinated,TotPollen,8,1,0
+169,A,1710for_hp_st008,na,2018,savio,HP,Hand pollinated,TotPollen,557,1,0
+169,B,1710for_hp_st008,na,2018,savio,HP,Hand pollinated,TotPollen,466,1,0
+169,C,1710for_hp_st008,na,2018,savio,HP,Hand pollinated,TotPollen,221,1,0
+169,D,1710for_hp_st008,na,2018,savio,HP,Hand pollinated,TotPollen,413,1,0
+169,E,1710for_hp_st008,na,2018,savio,HP,Hand pollinated,TotPollen,399,1,0
+169,F,1710for_hp_st008,na,2018,savio,HP,Hand pollinated,TotPollen,428,1,0
+182,A,1710acr_hp_st103,na,2018,ausfarm,HP,Hand pollinated,TotPollen,87,1,0
+182,B,1710acr_hp_st103,na,2018,ausfarm,HP,Hand pollinated,TotPollen,342,1,0
+182,C,1710acr_hp_st103,na,2018,ausfarm,HP,Hand pollinated,TotPollen,86,1,0
+182,D,1710acr_hp_st103,na,2018,ausfarm,HP,Hand pollinated,TotPollen,286,1,0
+182,E,1710acr_hp_st103,na,2018,ausfarm,HP,Hand pollinated,TotPollen,100,1,0
+46,a,1710v1_hp_st108,na,2018,ausfarm,HP,Hand pollinated,TotPollen,120,1,0
+46,b,1710v1_hp_st108,na,2018,ausfarm,HP,Hand pollinated,TotPollen,270,1,0
+46,c,1710v1_hp_st108,na,2018,ausfarm,HP,Hand pollinated,TotPollen,131,1,0
+46,d,1710v1_hp_st108,na,2018,ausfarm,HP,Hand pollinated,TotPollen,106,1,0
+46,e,1710v1_hp_st108,na,2018,ausfarm,HP,Hand pollinated,TotPollen,170,1,0
+11,A,4014,na,2017,Savio,HP,Hand pollinated,TotPollen,39,1,0
+11,B,4014,na,2017,Savio,HP,Hand pollinated,TotPollen,4,1,0
+11,C,4014,na,2017,Savio,HP,Hand pollinated,TotPollen,8,1,0
+11,D,4014,na,2017,Savio,HP,Hand pollinated,TotPollen,19,1,0
+18,A,4015,na,2017,Savio,HP,Hand pollinated,TotPollen,170,1,0
+18,B,4015,na,2017,Savio,HP,Hand pollinated,TotPollen,77,1,0
+18,C,4015,na,2017,Savio,HP,Hand pollinated,TotPollen,66,1,0
+18,D,4015,na,2017,Savio,HP,Hand pollinated,TotPollen,191,1,0
+19,A,4017,na,2017,Savio,HP,Hand pollinated,TotPollen,69,1,0
+19,B,4017,na,2017,Savio,HP,Hand pollinated,TotPollen,56,1,0
+19,C,4017,na,2017,Savio,HP,Hand pollinated,TotPollen,49,1,0
+19,D,4017,na,2017,Savio,HP,Hand pollinated,TotPollen,52,1,0
+19,E,4017,na,2017,Savio,HP,Hand pollinated,TotPollen,19,1,0
+30,A,4013,na,2017,Savio,HP,Hand pollinated,TotPollen,87,1,0
+30,B,4013,na,2017,Savio,HP,Hand pollinated,TotPollen,60,1,0
+30,C,4013,na,2017,Savio,HP,Hand pollinated,TotPollen,5,1,0
+30,D,4013,na,2017,Savio,HP,Hand pollinated,TotPollen,35,1,0
+30,E,4013,na,2017,Savio,HP,Hand pollinated,TotPollen,45,1,0
+31,A,4004,na,2017,Savio,HP,Hand pollinated,TotPollen,127,1,0
+31,B,4004,na,2017,Savio,HP,Hand pollinated,TotPollen,161,1,0
+31,C,4004,na,2017,Savio,HP,Hand pollinated,TotPollen,142,1,0
+31,D,4004,na,2017,Savio,HP,Hand pollinated,TotPollen,151,1,0
+9,A,4018,na,2017,Savio,HP,Hand pollinated,TotPollen,62,1,0
+9,B,4018,na,2017,Savio,HP,Hand pollinated,TotPollen,43,1,0
+9,C,4018,na,2017,Savio,HP,Hand pollinated,TotPollen,123,1,0
+9,D,4018,na,2017,Savio,HP,Hand pollinated,TotPollen,8,1,0
+9,E,4018,na,2017,Savio,HP,Hand pollinated,TotPollen,75,1,0
+1,A,1610for_o_st019,na,2018,savio,O,Open,TotPollen,279,1,0
+1,B,1610for_o_st019,na,2018,savio,O,Open,TotPollen,177,1,0
+4,A,1610for_o_st012,NA,2018,savio,O,Open,TotPollen,81,1,0
+4,B,1610for_o_st012,NA,2018,savio,O,Open,TotPollen,144,1,0
+4,C,1610for_o_st012,NA,2018,savio,O,Open,TotPollen,125,1,0
+4,D,1610for_o_st012,NA,2018,savio,O,Open,TotPollen,146,1,0
+4,E,1610for_o_st012,NA,2018,savio,O,Open,TotPollen,138,1,0
+5,A,210v1_o_st015,na,2018,ausfarm,O,Open,TotPollen,583,1,0
+5,B,210v1_o_st015,na,2018,ausfarm,O,Open,TotPollen,167,1,0
+5,C,210v1_o_st015,na,2018,ausfarm,O,Open,TotPollen,280,1,0
+5,D,210v1_o_st015,na,2018,ausfarm,O,Open,TotPollen,416,1,0
+5,E,210v1_o_st015,na,2018,ausfarm,O,Open,TotPollen,160,1,0
+9,A,210bir_o_st017,na,2018,savio,O,Open,TotPollen,496,1,0
+9,B,210bir_o_st017,na,2018,savio,O,Open,TotPollen,523,1,0
+9,C,210bir_o_st017,na,2018,savio,O,Open,TotPollen,332,1,0
+9,D,210bir_o_st017,na,2018,savio,O,Open,TotPollen,567,1,0
+9,E,210bir_o_st017,na,2018,savio,O,Open,TotPollen,383,1,0
+12,A,1610acr_o_st010,na,2018,ausfarm,O,Open,TotPollen,46,1,0
+12,B,1610acr_o_st010,na,2018,ausfarm,O,Open,TotPollen,9,1,0
+12,C,1610acr_o_st010,na,2018,ausfarm,O,Open,TotPollen,89,1,0
+12,D,1610acr_o_st010,na,2018,ausfarm,O,Open,TotPollen,6,1,0
+12,E,1610acr_o_st010,na,2018,ausfarm,O,Open,TotPollen,21,1,0
+12,F,1610acr_o_st010,na,2018,ausfarm,O,Open,TotPollen,26,1,0
+21,A,210v1_o_st014,na,2018,ausfarm,O,Open,TotPollen,183,1,0
+21,B,210v1_o_st014,na,2018,ausfarm,O,Open,TotPollen,314,1,0
+21,C,210v1_o_st014,na,2018,ausfarm,O,Open,TotPollen,346,1,0
+21,D,210v1_o_st014,na,2018,ausfarm,O,Open,TotPollen,217,1,0
+22,A,1610acr_o_st004,NA,2018,ausfarm,O,Open,TotPollen,159,1,0
+22,B,1610acr_o_st004,NA,2018,ausfarm,O,Open,TotPollen,258,1,0
+22,C,1610acr_o_st004,NA,2018,ausfarm,O,Open,TotPollen,83,1,0
+22,D,1610acr_o_st004,NA,2018,ausfarm,O,Open,TotPollen,60,1,0
+22,E,1610acr_o_st004,NA,2018,ausfarm,O,Open,TotPollen,15,1,0
+22,F,1610acr_o_st004,NA,2018,ausfarm,O,Open,TotPollen,73,1,0
+26,A,1610acr_o_st012,na,2018,ausfarm,O,Open,TotPollen,29,1,0
+26,B,1610acr_o_st012,na,2018,ausfarm,O,Open,TotPollen,3,1,0
+26,C,1610acr_o_st012,na,2018,ausfarm,O,Open,TotPollen,6,1,0
+26,D,1610acr_o_st012,na,2018,ausfarm,O,Open,TotPollen,3,1,0
+26,E,1610acr_o_st012,na,2018,ausfarm,O,Open,TotPollen,9,1,0
+30,A,210v1_o_st017,NA,2018,ausfarm,O,Open,TotPollen,203,1,0
+30,B,210v1_o_st017,NA,2018,ausfarm,O,Open,TotPollen,185,1,0
+30,C,210v1_o_st017,NA,2018,ausfarm,O,Open,TotPollen,242,1,0
+30,D,210v1_o_st017,NA,2018,ausfarm,O,Open,TotPollen,322,1,0
+30,E,210v1_o_st017,NA,2018,ausfarm,O,Open,TotPollen,274,1,0
+31,A,210bir_o_st011,na,2018,savio,O,Open,TotPollen,590,1,0
+31,B,210bir_o_st011,na,2018,savio,O,Open,TotPollen,222,1,0
+31,C,210bir_o_st011,na,2018,savio,O,Open,TotPollen,497,1,0
+31,D,210bir_o_st011,na,2018,savio,O,Open,TotPollen,268,1,0
+31,E,210bir_o_st011,na,2018,savio,O,Open,TotPollen,375,1,0
+34,A,1610acr_o_st006,na,2018,ausfarm,O,Open,TotPollen,187,1,0
+34,B,1610acr_o_st006,na,2018,ausfarm,O,Open,TotPollen,129,1,0
+34,c,1610acr_o_st006,na,2018,ausfarm,O,Open,TotPollen,207,1,0
+34,d,1610acr_o_st006,na,2018,ausfarm,O,Open,TotPollen,211,1,0
+34,e,1610acr_o_st006,na,2018,ausfarm,O,Open,TotPollen,318,1,0
+35,a,210v1_o_st013,na,2018,ausfarm,O,Open,TotPollen,442,1,0
+35,b,210v1_o_st013,na,2018,ausfarm,O,Open,TotPollen,367,1,0
+35,c,210v1_o_st013,na,2018,ausfarm,O,Open,TotPollen,299,1,0
+35,d,210v1_o_st013,na,2018,ausfarm,O,Open,TotPollen,363,1,0
+10,A,219for_v_st119,1,2018,savio,V1,Visited,TotPollen,166,1,0
+10,B,219for_v_st119,1,2018,savio,V1,Visited,TotPollen,288,1,0
+10,C,219for_v_st119,1,2018,savio,V1,Visited,TotPollen,385,1,0
+10,D,219for_v_st119,1,2018,savio,V1,Visited,TotPollen,328,1,0
+10,E,219for_v_st119,1,2018,savio,V1,Visited,TotPollen,142,1,0
+152,A,169for_v_st207,1,2018,savio,V1,Visited,TotPollen,51,1,0
+152,B,169for_v_st207,1,2018,savio,V1,Visited,TotPollen,70,1,0
+152,C,169for_v_st207,1,2018,savio,V1,Visited,TotPollen,44,1,0
+152,D,169for_v_st207,1,2018,savio,V1,Visited,TotPollen,55,1,0
+152,E,169for_v_st207,1,2018,savio,V1,Visited,TotPollen,51,1,0
+201,A,219for_v_st218,1,2018,savio,V1,Visited,TotPollen,0,1,1
+201,B,219for_v_st218,1,2018,savio,V1,Visited,TotPollen,0,1,1
+201,C,219for_v_st218,1,2018,savio,V1,Visited,TotPollen,0,1,1
+201,D,219for_v_st218,1,2018,savio,V1,Visited,TotPollen,0,1,1
+201,E,219for_v_st218,1,2018,savio,V1,Visited,TotPollen,0,1,1
+217,A,209cos_v_st204,1,2018,rizzatto,V1,Visited,TotPollen,1,1,0
+217,B,209cos_v_st204,1,2018,rizzatto,V1,Visited,TotPollen,30,1,0
+217,C,209cos_v_st204,1,2018,rizzatto,V1,Visited,TotPollen,8,1,0
+217,D,209cos_v_st204,1,2018,rizzatto,V1,Visited,TotPollen,12,1,0
+275,E,910v1_v_st004,1,2018,ausfarm,V1,Visited,TotPollen,95,1,0
+275,D,910v1_v_st004,1,2018,ausfarm,V1,Visited,TotPollen,12,1,0
+275,C,910v1_v_st004,1,2018,ausfarm,V1,Visited,TotPollen,37,1,0
+275,B,910v1_v_st004,1,2018,ausfarm,V1,Visited,TotPollen,1,1,0
+275,A,910v1_v_st004,1,2018,ausfarm,V1,Visited,TotPollen,3,1,0
+245,D,169for_v_st208,1,2018,savio,V1,Visited,TotPollen,0,1,1
+245,C,169for_v_st208,1,2018,savio,V1,Visited,TotPollen,0,1,1
+245,B,169for_v_st208,1,2018,savio,V1,Visited,TotPollen,0,1,1
+245,A,169for_v_st208,1,2018,savio,V1,Visited,TotPollen,1,1,0
+219,A,219for_v_st116,1,2018,savio,V1,Visited,TotPollen,6,1,0
+219,B,219for_v_st116,1,2018,savio,V1,Visited,TotPollen,26,1,0
+219,C,219for_v_st116,1,2018,savio,V1,Visited,TotPollen,26,1,0
+219,D,219for_v_st116,1,2018,savio,V1,Visited,TotPollen,88,1,0
+219,E,219for_v_st116,1,2018,savio,V1,Visited,TotPollen,151,1,0
+104,a,219for_v_st120,1,2018,savio,V1,Visited,TotPollen,46,1,0
+104,b,219for_v_st120,1,2018,savio,V1,Visited,TotPollen,124,1,0
+104,c,219for_v_st120,1,2018,savio,V1,Visited,TotPollen,38,1,0
+104,d,219for_v_st120,1,2018,savio,V1,Visited,TotPollen,50,1,0
+104,e,219for_v_st120,1,2018,savio,V1,Visited,TotPollen,39,1,0
+29,A,39,1,2017,Savio,V1,Visited,TotPollen,0,1,1
+29,B,39,1,2017,Savio,V1,Visited,TotPollen,0,1,1
+29,C,39,1,2017,Savio,V1,Visited,TotPollen,0,1,1
+37,A,2015,1,2017,Savio,V1,Visited,TotPollen,0,1,1
+37,B,2015,1,2017,Savio,V1,Visited,TotPollen,0,1,1
+37,C,2015,1,2017,Savio,V1,Visited,TotPollen,0,1,1
+37,D,2015,1,2017,Savio,V1,Visited,TotPollen,0,1,1
+39,A,3000,1,2017,Ausfarm,V1,Visited,TotPollen,0,1,1
+39,B,3000,1,2017,Ausfarm,V1,Visited,TotPollen,4,1,0
+39,C,3000,1,2017,Ausfarm,V1,Visited,TotPollen,6,1,0
+39,D,3000,1,2017,Ausfarm,V1,Visited,TotPollen,2,1,0
+39,E,3000,1,2017,Ausfarm,V1,Visited,TotPollen,1,1,0
+40,A,33,1,2017,Savio,V1,Visited,TotPollen,0,1,1
+40,B,33,1,2017,Savio,V1,Visited,TotPollen,10,1,0
+40,C,33,1,2017,Savio,V1,Visited,TotPollen,4,1,0
+40,D,33,1,2017,Savio,V1,Visited,TotPollen,0,1,1
+40,E,33,1,2017,Savio,V1,Visited,TotPollen,0,1,1
+42,A,2011,1,2017,Savio,V1,Visited,TotPollen,3,1,0
+42,B,2011,1,2017,Savio,V1,Visited,TotPollen,1,1,0
+42,C,2011,1,2017,Savio,V1,Visited,TotPollen,0,1,1
+42,D,2011,1,2017,Savio,V1,Visited,TotPollen,0,1,1
+42,E,2011,1,2017,Savio,V1,Visited,TotPollen,0,1,1
+4,A,2014,1,2017,Savio,V1,Visited,TotPollen,0,1,1
+4,B,2014,1,2017,Savio,V1,Visited,TotPollen,2,1,0
+4,C,2014,1,2017,Savio,V1,Visited,TotPollen,1,1,0
+4,D,2014,1,2017,Savio,V1,Visited,TotPollen,2,1,0
+4,E,2014,1,2017,Savio,V1,Visited,TotPollen,0,1,1
+150,A,219for_v_st221,10,2018,savio,V10,Visited,TotPollen,2,1,0
+150,B,219for_v_st221,10,2018,savio,V10,Visited,TotPollen,0,1,1
+150,C,219for_v_st221,10,2018,savio,V10,Visited,TotPollen,2,1,0
+246,C,219for_v_st223,10,2018,savio,V10,Visited,TotPollen,239,1,0
+246,B,219for_v_st223,10,2018,savio,V10,Visited,TotPollen,168,1,0
+246,A,219for_v_st223,10,2018,savio,V10,Visited,TotPollen,175,1,0
+236,A,910v1_v_st001,10,2018,ausfarm,V10,Visited,TotPollen,195,1,0
+236,B,910v1_v_st001,10,2018,ausfarm,V10,Visited,TotPollen,50,1,0
+236,C,910v1_v_st001,10,2018,ausfarm,V10,Visited,TotPollen,89,1,0
+236,D,910v1_v_st001,10,2018,ausfarm,V10,Visited,TotPollen,93,1,0
+236,E,910v1_v_st001,10,2018,ausfarm,V10,Visited,TotPollen,2,1,0
+236,F,910v1_v_st001,10,2018,ausfarm,V10,Visited,TotPollen,86,1,0
+67,a,219for_v_st121,10,2018,savio,V10,Visited,TotPollen,58,1,0
+67,b,219for_v_st121,10,2018,savio,V10,Visited,TotPollen,337,1,0
+148,A,169for_v_st104,11,2018,savio,V11,Visited,TotPollen,59,1,0
+148,B,169for_v_st104,11,2018,savio,V11,Visited,TotPollen,65,1,0
+148,C,169for_v_st104,11,2018,savio,V11,Visited,TotPollen,15,1,0
+148,D,169for_v_st104,11,2018,savio,V11,Visited,TotPollen,38,1,0
+207,A,199for_v_std,11,2018,savio,V11,Visited,TotPollen,1,1,0
+207,B,199for_v_std,11,2018,savio,V11,Visited,TotPollen,30,1,0
+207,C,199for_v_std,11,2018,savio,V11,Visited,TotPollen,8,1,0
+207,D,199for_v_std,11,2018,savio,V11,Visited,TotPollen,2,1,0
+207,E,199for_v_std,11,2018,savio,V11,Visited,TotPollen,4,1,0
+135,C,199for_v_stc,11,2018,savio,V11,Visited,TotPollen,215,1,0
+135,D,199for_v_stc,11,2018,savio,V11,Visited,TotPollen,66,1,0
+135,E,199for_v_stc,11,2018,savio,V11,Visited,TotPollen,122,1,0
+135,a,199for_v_stc,11,2018,savio,V11,Visited,TotPollen,225,1,0
+135,b,199for_v_stc,11,2018,savio,V11,Visited,TotPollen,168,1,0
+165,A,219for_v_st126,12,2018,savio,V12,Visited,TotPollen,577,1,0
+165,B,219for_v_st126,12,2018,savio,V12,Visited,TotPollen,563,1,0
+165,C,219for_v_st126,12,2018,savio,V12,Visited,TotPollen,450,1,0
+165,D,219for_v_st126,12,2018,savio,V12,Visited,TotPollen,168,1,0
+165,E,219for_v_st126,12,2018,savio,V12,Visited,TotPollen,689,1,0
+125,a,209for_v_st213,12,2018,savio,V12,Visited,TotPollen,17,1,0
+125,b,209for_v_st213,12,2018,savio,V12,Visited,TotPollen,258,1,0
+125,c,209for_v_st213,12,2018,savio,V12,Visited,TotPollen,40,1,0
+125,d,209for_v_st213,12,2018,savio,V12,Visited,TotPollen,5,1,0
+176,A,910v1_v_st008,3,2018,ausfarm,V3,Visited,TotPollen,225,1,0
+176,B,910v1_v_st008,3,2018,ausfarm,V3,Visited,TotPollen,264,1,0
+176,C,910v1_v_st008,3,2018,ausfarm,V3,Visited,TotPollen,124,1,0
+176,D,910v1_v_st008,3,2018,ausfarm,V3,Visited,TotPollen,557,1,0
+176,E,910v1_v_st008,3,2018,ausfarm,V3,Visited,TotPollen,112,1,0
+277,E,209for_v_st211,3,2018,savio,V3,Visited,TotPollen,1,1,0
+277,D,209for_v_st211,3,2018,savio,V3,Visited,TotPollen,0,1,1
+277,C,209for_v_st211,3,2018,savio,V3,Visited,TotPollen,0,1,1
+277,B,209for_v_st211,3,2018,savio,V3,Visited,TotPollen,0,1,1
+277,A,209for_v_st211,3,2018,savio,V3,Visited,TotPollen,0,1,1
+256,E,910v1_v_st003,3,2018,ausfarm,V3,Visited,TotPollen,197,1,0
+256,D,910v1_v_st003,3,2018,ausfarm,V3,Visited,TotPollen,203,1,0
+256,C,910v1_v_st003,3,2018,ausfarm,V3,Visited,TotPollen,324,1,0
+256,B,910v1_v_st003,3,2018,ausfarm,V3,Visited,TotPollen,829,1,0
+256,A,910v1_v_st003,3,2018,ausfarm,V3,Visited,TotPollen,415,1,0
+242,E,199for_v_stb,3,2018,savio,V3,Visited,TotPollen,135,1,0
+242,A,199for_v_stb,3,2018,savio,V3,Visited,TotPollen,126,1,0
+242,B,199for_v_stb,3,2018,savio,V3,Visited,TotPollen,217,1,0
+242,D,199for_v_stb,3,2018,savio,V3,Visited,TotPollen,73,1,0
+242,C,199for_v_stb,3,2018,savio,V3,Visited,TotPollen,27,1,0
+80,a,169for_v_st107,3,2018,savio,V3,Visited,TotPollen,8,1,0
+80,b,169for_v_st107,3,2018,savio,V3,Visited,TotPollen,16,1,0
+80,c,169for_v_st107,3,2018,savio,V3,Visited,TotPollen,36,1,0
+80,d,169for_v_st107,3,2018,savio,V3,Visited,TotPollen,24,1,0
+80,e,169for_v_st107,3,2018,savio,V3,Visited,TotPollen,38,1,0
+84,a,910v1_v_st002,3,2018,ausfarm,V3,Visited,TotPollen,478,1,0
+84,b,910v1_v_st002,3,2018,ausfarm,V3,Visited,TotPollen,490,1,0
+84,c,910v1_v_st002,3,2018,ausfarm,V3,Visited,TotPollen,268,1,0
+84,d,910v1_v_st002,3,2018,ausfarm,V3,Visited,TotPollen,242,1,0
+84,e,910v1_v_st002,3,2018,ausfarm,V3,Visited,TotPollen,340,1,0
+89,a,219for_v_st113,3,2018,savio,V3,Visited,TotPollen,447,1,0
+89,b,219for_v_st113,3,2018,savio,V3,Visited,TotPollen,218,1,0
+89,c,219for_v_st113,3,2018,savio,V3,Visited,TotPollen,515,1,0
+89,d,219for_v_st113,3,2018,savio,V3,Visited,TotPollen,356,1,0
+89,e,219for_v_st113,3,2018,savio,V3,Visited,TotPollen,219,1,0
+106,a,209for_v_st110,3,2018,savio,V3,Visited,TotPollen,11,1,0
+106,b,209for_v_st110,3,2018,savio,V3,Visited,TotPollen,31,1,0
+106,c,209for_v_st110,3,2018,savio,V3,Visited,TotPollen,7,1,0
+106,d,209for_v_st110,3,2018,savio,V3,Visited,TotPollen,5,1,0
+114,a,219for_v_st219,3,2018,savio,V3,Visited,TotPollen,9,1,0
+114,b,219for_v_st219,3,2018,savio,V3,Visited,TotPollen,14,1,0
+114,c,219for_v_st219,3,2018,savio,V3,Visited,TotPollen,16,1,0
+114,d,219for_v_st219,3,2018,savio,V3,Visited,TotPollen,8,1,0
+24,A,106,3,2017,Nicoletti,V3,Visited,TotPollen,219,1,0
+24,B,106,3,2017,Nicoletti,V3,Visited,TotPollen,55,1,0
+24,C,106,3,2017,Nicoletti,V3,Visited,TotPollen,25,1,0
+24,D,106,3,2017,Nicoletti,V3,Visited,TotPollen,24,1,0
+32,A,96,3,2017,Nicoletti,V3,Visited,TotPollen,49,1,0
+32,B,96,3,2017,Nicoletti,V3,Visited,TotPollen,24,1,0
+32,C,96,3,2017,Nicoletti,V3,Visited,TotPollen,78,1,0
+32,D,96,3,2017,Nicoletti,V3,Visited,TotPollen,74,1,0
+32,E,96,3,2017,Nicoletti,V3,Visited,TotPollen,89,1,0
+41,A,62,3,2017,Savio,V3,Visited,TotPollen,39,1,0
+41,B,62,3,2017,Savio,V3,Visited,TotPollen,63,1,0
+41,C,62,3,2017,Savio,V3,Visited,TotPollen,82,1,0
+41,D,62,3,2017,Savio,V3,Visited,TotPollen,48,1,0
+41,E,62,3,2017,Savio,V3,Visited,TotPollen,59,1,0
+41,F,62,3,2017,Savio,V3,Visited,TotPollen,7,1,0
+43,A,3027,3,2017,Nicoletti,V3,Visited,TotPollen,2,1,0
+43,B,3027,3,2017,Nicoletti,V3,Visited,TotPollen,4,1,0
+43,C,3027,3,2017,Nicoletti,V3,Visited,TotPollen,32,1,0
+43,D,3027,3,2017,Nicoletti,V3,Visited,TotPollen,1,1,0
+43,E,3027,3,2017,Nicoletti,V3,Visited,TotPollen,0,1,1
+44,A,51,3,2017,Savio,V3,Visited,TotPollen,190,1,0
+44,B,51,3,2017,Savio,V3,Visited,TotPollen,389,1,0
+44,C,51,3,2017,Savio,V3,Visited,TotPollen,208,1,0
+44,D,51,3,2017,Savio,V3,Visited,TotPollen,247,1,0
+46,A,44,3,2017,Savio,V3,Visited,TotPollen,8,1,0
+46,B,44,3,2017,Savio,V3,Visited,TotPollen,17,1,0
+46,C,44,3,2017,Savio,V3,Visited,TotPollen,15,1,0
+46,D,44,3,2017,Savio,V3,Visited,TotPollen,0,1,1
+46,E,44,3,2017,Savio,V3,Visited,TotPollen,3,1,0
+11,A,219for_v_st217,5,2018,savio,V5,Visited,TotPollen,6,1,0
+11,B,219for_v_st217,5,2018,savio,V5,Visited,TotPollen,7,1,0
+11,C,219for_v_st217,5,2018,savio,V5,Visited,TotPollen,2,1,0
+11,D,219for_v_st217,5,2018,savio,V5,Visited,TotPollen,1,1,0
+157,A,209for_v_st212,5,2018,savio,V5,Visited,TotPollen,0,1,1
+157,B,209for_v_st212,5,2018,savio,V5,Visited,TotPollen,0,1,1
+157,C,209for_v_st212,5,2018,savio,V5,Visited,TotPollen,0,1,1
+157,D,209for_v_st212,5,2018,savio,V5,Visited,TotPollen,0,1,1
+200,A,169for_v_st103,5,2018,savio,V5,Visited,TotPollen,0,1,1
+200,B,169for_v_st103,5,2018,savio,V5,Visited,TotPollen,3,1,0
+200,C,169for_v_st103,5,2018,savio,V5,Visited,TotPollen,5,1,0
+200,D,169for_v_st103,5,2018,savio,V5,Visited,TotPollen,4,1,0
+200,E,169for_v_st103,5,2018,savio,V5,Visited,TotPollen,3,1,0
+200,F,169for_v_st103,5,2018,savio,V5,Visited,TotPollen,7,1,0
+209,A,169for_v_st005,5,2018,savio,V5,Visited,TotPollen,139,1,0
+209,B,169for_v_st005,5,2018,savio,V5,Visited,TotPollen,89,1,0
+209,C,169for_v_st005,5,2018,savio,V5,Visited,TotPollen,80,1,0
+209,D,169for_v_st005,5,2018,savio,V5,Visited,TotPollen,57,1,0
+243,E,219for_v_st123,5,2018,savio,V5,Visited,TotPollen,88,1,0
+243,D,219for_v_st123,5,2018,savio,V5,Visited,TotPollen,141,1,0
+243,C,219for_v_st123,5,2018,savio,V5,Visited,TotPollen,314,1,0
+243,B,219for_v_st123,5,2018,savio,V5,Visited,TotPollen,170,1,0
+243,A,219for_v_st123,5,2018,savio,V5,Visited,TotPollen,272,1,0
+222,A,169for_v_st004,5,2018,savio,V5,Visited,TotPollen,121,1,0
+222,B,169for_v_st004,5,2018,savio,V5,Visited,TotPollen,171,1,0
+222,C,169for_v_st004,5,2018,savio,V5,Visited,TotPollen,108,1,0
+222,D,169for_v_st004,5,2018,savio,V5,Visited,TotPollen,116,1,0
+222,E,169for_v_st004,5,2018,savio,V5,Visited,TotPollen,58,1,0
+143,B,910v1_v_st109,5,2018,ausfarm,V5,Visited,TotPollen,128,1,0
+143,A,910v1_v_st109,5,2018,ausfarm,V5,Visited,TotPollen,182,1,0
+143,C,910v1_v_st109,5,2018,ausfarm,V5,Visited,TotPollen,243,1,0
+143,D,910v1_v_st109,5,2018,ausfarm,V5,Visited,TotPollen,205,1,0
+143,E,910v1_v_st109,5,2018,ausfarm,V5,Visited,TotPollen,227,1,0
+12,A,1046,5,2017,Savio,V5,Visited,TotPollen,3,1,0
+12,B,1046,5,2017,Savio,V5,Visited,TotPollen,13,1,0
+12,C,1046,5,2017,Savio,V5,Visited,TotPollen,3,1,0
+12,D,1046,5,2017,Savio,V5,Visited,TotPollen,3,1,0
+13,A,2022,5,2017,Ausfarm,V5,Visited,TotPollen,401,1,0
+13,B,2022,5,2017,Ausfarm,V5,Visited,TotPollen,85,1,0
+13,C,2022,5,2017,Ausfarm,V5,Visited,TotPollen,287,1,0
+13,D,2022,5,2017,Ausfarm,V5,Visited,TotPollen,83,1,0
+23,A,2018,5,2017,Savio,V5,Visited,TotPollen,2,1,0
+23,B,2018,5,2017,Savio,V5,Visited,TotPollen,1,1,0
+23,C,2018,5,2017,Savio,V5,Visited,TotPollen,0,1,1
+23,D,2018,5,2017,Savio,V5,Visited,TotPollen,9,1,0
+23,E,2018,5,2017,Savio,V5,Visited,TotPollen,4,1,0
+26,A,55,5,2017,Savio,V5,Visited,TotPollen,12,1,0
+26,B,55,5,2017,Savio,V5,Visited,TotPollen,47,1,0
+26,C,55,5,2017,Savio,V5,Visited,TotPollen,51,1,0
+26,D,55,5,2017,Savio,V5,Visited,TotPollen,27,1,0
+26,E,55,5,2017,Savio,V5,Visited,TotPollen,16,1,0
+28,A,85,5,2017,Nicoletti,V5,Visited,TotPollen,129,1,0
+28,B,85,5,2017,Nicoletti,V5,Visited,TotPollen,111,1,0
+28,C,85,5,2017,Nicoletti,V5,Visited,TotPollen,61,1,0
+28,D,85,5,2017,Nicoletti,V5,Visited,TotPollen,49,1,0
+28,E,85,5,2017,Nicoletti,V5,Visited,TotPollen,160,1,0
+45,A,2028,5,2017,Ausfarm,V5,Visited,TotPollen,486,1,0
+45,B,2028,5,2017,Ausfarm,V5,Visited,TotPollen,502,1,0
+45,C,2028,5,2017,Ausfarm,V5,Visited,TotPollen,252,1,0
+45,D,2028,5,2017,Ausfarm,V5,Visited,TotPollen,208,1,0
+45,E,2028,5,2017,Ausfarm,V5,Visited,TotPollen,647,1,0
+27,A,910v1_v_st101,7,2018,ausfarm,V7,Visited,TotPollen,76,1,0
+27,B,910v1_v_st101,7,2018,ausfarm,V7,Visited,TotPollen,132,1,0
+27,C,910v1_v_st101,7,2018,ausfarm,V7,Visited,TotPollen,302,1,0
+27,D,910v1_v_st101,7,2018,ausfarm,V7,Visited,TotPollen,172,1,0
+27,E,910v1_v_st101,7,2018,ausfarm,V7,Visited,TotPollen,277,1,0
+158,A,169for_v_st106,7,2018,savio,V7,Visited,TotPollen,111,1,0
+158,B,169for_v_st106,7,2018,savio,V7,Visited,TotPollen,59,1,0
+158,C,169for_v_st106,7,2018,savio,V7,Visited,TotPollen,124,1,0
+158,D,169for_v_st106,7,2018,savio,V7,Visited,TotPollen,99,1,0
+158,E,169for_v_st106,7,2018,savio,V7,Visited,TotPollen,133,1,0
+197,A,169for_v_st205,7,2018,savio,V7,Visited,TotPollen,115,1,0
+197,B,169for_v_st205,7,2018,savio,V7,Visited,TotPollen,70,1,0
+197,C,169for_v_st205,7,2018,savio,V7,Visited,TotPollen,16,1,0
+214,A,219for_v_st224,7,2018,savio,V7,Visited,TotPollen,23,1,0
+214,B,219for_v_st224,7,2018,savio,V7,Visited,TotPollen,44,1,0
+214,C,219for_v_st224,7,2018,savio,V7,Visited,TotPollen,53,1,0
+214,D,219for_v_st224,7,2018,savio,V7,Visited,TotPollen,20,1,0
+218,A,910v1_v_st104,7,2018,ausfarm,V7,Visited,TotPollen,146,1,0
+218,B,910v1_v_st104,7,2018,ausfarm,V7,Visited,TotPollen,62,1,0
+218,C,910v1_v_st104,7,2018,ausfarm,V7,Visited,TotPollen,91,1,0
+218,D,910v1_v_st104,7,2018,ausfarm,V7,Visited,TotPollen,151,1,0
+218,E,910v1_v_st104,7,2018,ausfarm,V7,Visited,TotPollen,65,1,0
+283,E,910v1_v_st102,7,2018,ausfarm,V7,Visited,TotPollen,48,1,0
+283,D,910v1_v_st102,7,2018,ausfarm,V7,Visited,TotPollen,26,1,0
+283,C,910v1_v_st102,7,2018,ausfarm,V7,Visited,TotPollen,36,1,0
+283,B,910v1_v_st102,7,2018,ausfarm,V7,Visited,TotPollen,29,1,0
+283,A,910v1_v_st102,7,2018,ausfarm,V7,Visited,TotPollen,67,1,0
+69,a,910v1_v_st106,7,2018,ausfarm,V7,Visited,TotPollen,398,1,0
+69,b,910v1_v_st106,7,2018,ausfarm,V7,Visited,TotPollen,128,1,0
+69,c,910v1_v_st106,7,2018,ausfarm,V7,Visited,TotPollen,300,1,0
+69,d,910v1_v_st106,7,2018,ausfarm,V7,Visited,TotPollen,112,1,0
+94,a,219for_v_st124,7,2018,savio,V7,Visited,TotPollen,290,1,0
+94,b,219for_v_st124,7,2018,savio,V7,Visited,TotPollen,314,1,0
+94,c,219for_v_st124,7,2018,savio,V7,Visited,TotPollen,208,1,0
+94,d,219for_v_st124,7,2018,savio,V7,Visited,TotPollen,436,1,0
+94,e,219for_v_st124,7,2018,savio,V7,Visited,TotPollen,150,1,0
+184,A,199for_v_sta,8,2018,savio,V8,Visited,TotPollen,165,1,0
+184,B,199for_v_sta,8,2018,savio,V8,Visited,TotPollen,89,1,0
+184,C,199for_v_sta,8,2018,savio,V8,Visited,TotPollen,105,1,0
+184,D,199for_v_sta,8,2018,savio,V8,Visited,TotPollen,64,1,0
+292,E,910v1_v_st103,8,2018,ausfarm,V8,Visited,TotPollen,15,1,0
+292,D,910v1_v_st103,8,2018,ausfarm,V8,Visited,TotPollen,7,1,0
+292,C,910v1_v_st103,8,2018,ausfarm,V8,Visited,TotPollen,34,1,0
+292,B,910v1_v_st103,8,2018,ausfarm,V8,Visited,TotPollen,43,1,0
+292,A,910v1_v_st103,8,2018,ausfarm,V8,Visited,TotPollen,20,1,0
+138,A,219for_v_st222,8,2018,savio,V8,Visited,TotPollen,450,1,0
+138,B,219for_v_st222,8,2018,savio,V8,Visited,TotPollen,142,1,0
+138,C,219for_v_st222,8,2018,savio,V8,Visited,TotPollen,520,1,0
+138,D,219for_v_st222,8,2018,savio,V8,Visited,TotPollen,332,1,0
+138,E,219for_v_st222,8,2018,savio,V8,Visited,TotPollen,383,1,0
+39,a,209for_v_st209,8,2018,savio,V8,Visited,TotPollen,15,1,0
+39,b,209for_v_st209,8,2018,savio,V8,Visited,TotPollen,9,1,0
+39,c,209for_v_st209,8,2018,savio,V8,Visited,TotPollen,38,1,0
+39,d,209for_v_st209,8,2018,savio,V8,Visited,TotPollen,15,1,0
+173,A,169for_v_st105,9,2018,savio,V9,Visited,TotPollen,146,1,0
+173,B,169for_v_st105,9,2018,savio,V9,Visited,TotPollen,43,1,0
+173,C,169for_v_st105,9,2018,savio,V9,Visited,TotPollen,54,1,0
+173,D,169for_v_st105,9,2018,savio,V9,Visited,TotPollen,59,1,0
+121,a,209for_v_st214,9,2018,savio,V9,Visited,TotPollen,2,1,0
+121,b,209for_v_st214,9,2018,savio,V9,Visited,TotPollen,3,1,0
+121,c,209for_v_st214,9,2018,savio,V9,Visited,TotPollen,0,1,1
+121,d,209for_v_st214,9,2018,savio,V9,Visited,TotPollen,15,1,0
+121,e,209for_v_st214,9,2018,savio,V9,Visited,TotPollen,3,1,0
+6,A,199cos_c_st009,na,2018,rizzatto,C,Control,PTT,0,2,1
+6,B,199cos_c_st009,na,2018,rizzatto,C,Control,PTT,0,2,1
+6,C,199cos_c_st009,na,2018,rizzatto,C,Control,PTT,0,2,1
+6,D,199cos_c_st009,na,2018,rizzatto,C,Control,PTT,0,2,1
+6,E,199cos_c_st009,na,2018,rizzatto,C,Control,PTT,0,2,1
+211,A,139for_c_st020,na,2018,savio,C,Control,PTT,128,2,0
+211,B,139for_c_st020,na,2018,savio,C,Control,PTT,0,2,1
+211,C,139for_c_st020,na,2018,savio,C,Control,PTT,14,2,0
+288,E,139for_c_st009,na,2018,savio,C,Control,PTT,5,2,0
+288,D,139for_c_st009,na,2018,savio,C,Control,PTT,25,2,0
+288,C,139for_c_st009,na,2018,savio,C,Control,PTT,1,2,0
+288,B,139for_c_st009,na,2018,savio,C,Control,PTT,14,2,0
+288,A,139for_c_st009,na,2018,savio,C,Control,PTT,10,2,0
+97,a,179pit_c_st012,na,2018,fastfruit,C,Control,PTT,0,2,1
+97,b,179pit_c_st012,na,2018,fastfruit,C,Control,PTT,0,2,1
+97,c,179pit_c_st012,na,2018,fastfruit,C,Control,PTT,0,2,1
+97,d,179pit_c_st012,na,2018,fastfruit,C,Control,PTT,0,2,1
+97,e,179pit_c_st012,na,2018,fastfruit,C,Control,PTT,0,2,1
+110,a,159pom_c_st002a,NA,2018,ausfarm,C,Control,PTT,0,2,1
+110,b,159pom_c_st002a,NA,2018,ausfarm,C,Control,PTT,17,2,0
+110,c,159pom_c_st002a,NA,2018,ausfarm,C,Control,PTT,31,2,0
+110,d,159pom_c_st002a,NA,2018,ausfarm,C,Control,PTT,27,2,0
+110,e,159pom_c_st002a,NA,2018,ausfarm,C,Control,PTT,9,2,0
+14,A,2029,na,2017,Ausfarm,C,Control,PTT,0,2,1
+14,B,2029,na,2017,Ausfarm,C,Control,PTT,0,2,1
+14,C,2029,na,2017,Ausfarm,C,Control,PTT,0,2,1
+14,D,2029,na,2017,Ausfarm,C,Control,PTT,0,2,1
+14,E,2029,na,2017,Ausfarm,C,Control,PTT,0,2,1
+16,A,5001,na,2017,Ausfarm,C,Control,PTT,0,2,1
+16,B,5001,na,2017,Ausfarm,C,Control,PTT,0,2,1
+16,C,5001,na,2017,Ausfarm,C,Control,PTT,0,2,1
+16,D,5001,na,2017,Ausfarm,C,Control,PTT,0,2,1
+16,E,5001,na,2017,Ausfarm,C,Control,PTT,0,2,1
+17,A,5008,na,2017,Ausfarm,C,Control,PTT,0,2,1
+17,B,5008,na,2017,Ausfarm,C,Control,PTT,0,2,1
+17,C,5008,na,2017,Ausfarm,C,Control,PTT,0,2,1
+17,D,5008,na,2017,Ausfarm,C,Control,PTT,0,2,1
+17,E,5008,na,2017,Ausfarm,C,Control,PTT,0,2,1
+1,A,5007,na,2017,Ausfarm,C,Control,PTT,16,2,0
+1,B,5007,na,2017,Ausfarm,C,Control,PTT,2,2,0
+1,C,5007,na,2017,Ausfarm,C,Control,PTT,3,2,0
+1,D,5007,na,2017,Ausfarm,C,Control,PTT,7,2,0
+21,A,5011,na,2017,Ausfarm,C,Control,PTT,0,2,1
+21,B,5011,na,2017,Ausfarm,C,Control,PTT,0,2,1
+21,C,5011,na,2017,Ausfarm,C,Control,PTT,0,2,1
+27,A,50,na,2017,Savio,C,Control,PTT,2,2,0
+27,B,50,na,2017,Savio,C,Control,PTT,3,2,0
+27,C,50,na,2017,Savio,C,Control,PTT,0,2,1
+27,D,50,na,2017,Savio,C,Control,PTT,0,2,1
+27,E,50,na,2017,Savio,C,Control,PTT,0,2,1
+2,A,5002,na,2017,Ausfarm,C,Control,PTT,0,2,1
+2,B,5002,na,2017,Ausfarm,C,Control,PTT,0,2,1
+2,C,5002,na,2017,Ausfarm,C,Control,PTT,0,2,1
+2,D,5002,na,2017,Ausfarm,C,Control,PTT,0,2,1
+2,E,5002,na,2017,Ausfarm,C,Control,PTT,2,2,0
+35,A,5020,na,2017,Ausfarm,C,Control,PTT,0,2,1
+35,B,5020,na,2017,Ausfarm,C,Control,PTT,0,2,1
+35,C,5020,na,2017,Ausfarm,C,Control,PTT,0,2,1
+35,D,5020,na,2017,Ausfarm,C,Control,PTT,0,2,1
+3,A,101,na,2017,Nicoletti,C,Control,PTT,0,2,1
+3,B,101,na,2017,Nicoletti,C,Control,PTT,0,2,1
+3,C,101,na,2017,Nicoletti,C,Control,PTT,0,2,1
+3,D,101,na,2017,Nicoletti,C,Control,PTT,0,2,1
+5,A,90,na,2017,Nicoletti,C,Control,PTT,0,2,1
+5,B,90,na,2017,Nicoletti,C,Control,PTT,0,2,1
+5,C,90,na,2017,Nicoletti,C,Control,PTT,0,2,1
+5,D,90,na,2017,Nicoletti,C,Control,PTT,0,2,1
+5,E,90,na,2017,Nicoletti,C,Control,PTT,0,2,1
+6,A,3001,na,2017,Ausfarm,C,Control,PTT,1,2,0
+6,B,3001,na,2017,Ausfarm,C,Control,PTT,1,2,0
+6,C,3001,na,2017,Ausfarm,C,Control,PTT,0,2,1
+6,D,3001,na,2017,Ausfarm,C,Control,PTT,0,2,1
+6,E,3001,na,2017,Ausfarm,C,Control,PTT,1,2,0
+8,A,2017,na,2017,Savio,C,Control,PTT,0,2,1
+8,B,2017,na,2017,Savio,C,Control,PTT,0,2,1
+8,C,2017,na,2017,Savio,C,Control,PTT,0,2,1
+8,D,2017,na,2017,Savio,C,Control,PTT,0,2,1
+8,E,2017,na,2017,Savio,C,Control,PTT,0,2,1
+8,A,1710for_hp_st003,NA,2018,savio,HP,Hand pollinated,PTT,40,2,0
+8,B,1710for_hp_st003,NA,2018,savio,HP,Hand pollinated,PTT,41,2,0
+8,C,1710for_hp_st003,NA,2018,savio,HP,Hand pollinated,PTT,67,2,0
+8,D,1710for_hp_st003,NA,2018,savio,HP,Hand pollinated,PTT,68,2,0
+8,E,1710for_hp_st003,NA,2018,savio,HP,Hand pollinated,PTT,82,2,0
+18,A,219pit_hp_st305,NA,2018,fastfruit,HP,Hand pollinated,PTT,8,2,0
+18,B,219pit_hp_st305,NA,2018,fastfruit,HP,Hand pollinated,PTT,0,2,1
+18,C,219pit_hp_st305,NA,2018,fastfruit,HP,Hand pollinated,PTT,8,2,0
+18,D,219pit_hp_st305,NA,2018,fastfruit,HP,Hand pollinated,PTT,3,2,0
+18,E,219pit_hp_st305,NA,2018,fastfruit,HP,Hand pollinated,PTT,2,2,0
+18,F,219pit_hp_st305,NA,2018,fastfruit,HP,Hand pollinated,PTT,0,2,1
+169,A,1710for_hp_st008,na,2018,savio,HP,Hand pollinated,PTT,150,2,0
+169,B,1710for_hp_st008,na,2018,savio,HP,Hand pollinated,PTT,162,2,0
+169,C,1710for_hp_st008,na,2018,savio,HP,Hand pollinated,PTT,90,2,0
+169,D,1710for_hp_st008,na,2018,savio,HP,Hand pollinated,PTT,93,2,0
+169,E,1710for_hp_st008,na,2018,savio,HP,Hand pollinated,PTT,167,2,0
+169,F,1710for_hp_st008,na,2018,savio,HP,Hand pollinated,PTT,146,2,0
+182,A,1710acr_hp_st103,na,2018,ausfarm,HP,Hand pollinated,PTT,44,2,0
+182,B,1710acr_hp_st103,na,2018,ausfarm,HP,Hand pollinated,PTT,101,2,0
+182,C,1710acr_hp_st103,na,2018,ausfarm,HP,Hand pollinated,PTT,10,2,0
+182,D,1710acr_hp_st103,na,2018,ausfarm,HP,Hand pollinated,PTT,59,2,0
+182,E,1710acr_hp_st103,na,2018,ausfarm,HP,Hand pollinated,PTT,35,2,0
+46,a,1710v1_hp_st108,na,2018,ausfarm,HP,Hand pollinated,PTT,41,2,0
+46,b,1710v1_hp_st108,na,2018,ausfarm,HP,Hand pollinated,PTT,55,2,0
+46,c,1710v1_hp_st108,na,2018,ausfarm,HP,Hand pollinated,PTT,33,2,0
+46,d,1710v1_hp_st108,na,2018,ausfarm,HP,Hand pollinated,PTT,49,2,0
+46,e,1710v1_hp_st108,na,2018,ausfarm,HP,Hand pollinated,PTT,48,2,0
+11,A,4014,na,2017,Savio,HP,Hand pollinated,PTT,1,2,0
+11,B,4014,na,2017,Savio,HP,Hand pollinated,PTT,0,2,1
+11,C,4014,na,2017,Savio,HP,Hand pollinated,PTT,0,2,1
+11,D,4014,na,2017,Savio,HP,Hand pollinated,PTT,2,2,0
+18,A,4015,na,2017,Savio,HP,Hand pollinated,PTT,33,2,0
+18,B,4015,na,2017,Savio,HP,Hand pollinated,PTT,13,2,0
+18,C,4015,na,2017,Savio,HP,Hand pollinated,PTT,17,2,0
+18,D,4015,na,2017,Savio,HP,Hand pollinated,PTT,34,2,0
+19,A,4017,na,2017,Savio,HP,Hand pollinated,PTT,3,2,0
+19,B,4017,na,2017,Savio,HP,Hand pollinated,PTT,0,2,1
+19,C,4017,na,2017,Savio,HP,Hand pollinated,PTT,6,2,0
+19,D,4017,na,2017,Savio,HP,Hand pollinated,PTT,8,2,0
+19,E,4017,na,2017,Savio,HP,Hand pollinated,PTT,0,2,1
+30,A,4013,na,2017,Savio,HP,Hand pollinated,PTT,9,2,0
+30,B,4013,na,2017,Savio,HP,Hand pollinated,PTT,21,2,0
+30,C,4013,na,2017,Savio,HP,Hand pollinated,PTT,2,2,0
+30,D,4013,na,2017,Savio,HP,Hand pollinated,PTT,7,2,0
+30,E,4013,na,2017,Savio,HP,Hand pollinated,PTT,5,2,0
+31,A,4004,na,2017,Savio,HP,Hand pollinated,PTT,16,2,0
+31,B,4004,na,2017,Savio,HP,Hand pollinated,PTT,27,2,0
+31,C,4004,na,2017,Savio,HP,Hand pollinated,PTT,15,2,0
+31,D,4004,na,2017,Savio,HP,Hand pollinated,PTT,11,2,0
+9,A,4018,na,2017,Savio,HP,Hand pollinated,PTT,3,2,0
+9,B,4018,na,2017,Savio,HP,Hand pollinated,PTT,9,2,0
+9,C,4018,na,2017,Savio,HP,Hand pollinated,PTT,10,2,0
+9,D,4018,na,2017,Savio,HP,Hand pollinated,PTT,3,2,0
+9,E,4018,na,2017,Savio,HP,Hand pollinated,PTT,3,2,0
+1,A,1610for_o_st019,na,2018,savio,O,Open,PTT,0,2,1
+1,B,1610for_o_st019,na,2018,savio,O,Open,PTT,2,2,0
+4,A,1610for_o_st012,NA,2018,savio,O,Open,PTT,10,2,0
+4,B,1610for_o_st012,NA,2018,savio,O,Open,PTT,5,2,0
+4,C,1610for_o_st012,NA,2018,savio,O,Open,PTT,21,2,0
+4,D,1610for_o_st012,NA,2018,savio,O,Open,PTT,30,2,0
+4,E,1610for_o_st012,NA,2018,savio,O,Open,PTT,5,2,0
+5,A,210v1_o_st015,na,2018,ausfarm,O,Open,PTT,3,2,0
+5,B,210v1_o_st015,na,2018,ausfarm,O,Open,PTT,9,2,0
+5,C,210v1_o_st015,na,2018,ausfarm,O,Open,PTT,10,2,0
+5,D,210v1_o_st015,na,2018,ausfarm,O,Open,PTT,20,2,0
+5,E,210v1_o_st015,na,2018,ausfarm,O,Open,PTT,58,2,0
+9,A,210bir_o_st017,na,2018,savio,O,Open,PTT,10,2,0
+9,B,210bir_o_st017,na,2018,savio,O,Open,PTT,0,2,1
+9,C,210bir_o_st017,na,2018,savio,O,Open,PTT,26,2,0
+9,D,210bir_o_st017,na,2018,savio,O,Open,PTT,10,2,0
+9,E,210bir_o_st017,na,2018,savio,O,Open,PTT,29,2,0
+12,A,1610acr_o_st010,na,2018,ausfarm,O,Open,PTT,0,2,1
+12,B,1610acr_o_st010,na,2018,ausfarm,O,Open,PTT,0,2,1
+12,C,1610acr_o_st010,na,2018,ausfarm,O,Open,PTT,0,2,1
+12,D,1610acr_o_st010,na,2018,ausfarm,O,Open,PTT,0,2,1
+12,E,1610acr_o_st010,na,2018,ausfarm,O,Open,PTT,0,2,1
+12,F,1610acr_o_st010,na,2018,ausfarm,O,Open,PTT,0,2,1
+21,A,210v1_o_st014,na,2018,ausfarm,O,Open,PTT,11,2,0
+21,B,210v1_o_st014,na,2018,ausfarm,O,Open,PTT,63,2,0
+21,C,210v1_o_st014,na,2018,ausfarm,O,Open,PTT,55,2,0
+21,D,210v1_o_st014,na,2018,ausfarm,O,Open,PTT,110,2,0
+22,A,1610acr_o_st004,NA,2018,ausfarm,O,Open,PTT,3,2,0
+22,B,1610acr_o_st004,NA,2018,ausfarm,O,Open,PTT,17,2,0
+22,C,1610acr_o_st004,NA,2018,ausfarm,O,Open,PTT,6,2,0
+22,D,1610acr_o_st004,NA,2018,ausfarm,O,Open,PTT,3,2,0
+22,E,1610acr_o_st004,NA,2018,ausfarm,O,Open,PTT,3,2,0
+22,F,1610acr_o_st004,NA,2018,ausfarm,O,Open,PTT,3,2,0
+26,A,1610acr_o_st012,na,2018,ausfarm,O,Open,PTT,9,2,0
+26,B,1610acr_o_st012,na,2018,ausfarm,O,Open,PTT,0,2,1
+26,C,1610acr_o_st012,na,2018,ausfarm,O,Open,PTT,0,2,1
+26,D,1610acr_o_st012,na,2018,ausfarm,O,Open,PTT,0,2,1
+26,E,1610acr_o_st012,na,2018,ausfarm,O,Open,PTT,0,2,1
+30,A,210v1_o_st017,NA,2018,ausfarm,O,Open,PTT,9,2,0
+30,B,210v1_o_st017,NA,2018,ausfarm,O,Open,PTT,23,2,0
+30,C,210v1_o_st017,NA,2018,ausfarm,O,Open,PTT,30,2,0
+30,D,210v1_o_st017,NA,2018,ausfarm,O,Open,PTT,8,2,0
+30,E,210v1_o_st017,NA,2018,ausfarm,O,Open,PTT,30,2,0
+31,A,210bir_o_st011,na,2018,savio,O,Open,PTT,36,2,0
+31,B,210bir_o_st011,na,2018,savio,O,Open,PTT,7,2,0
+31,C,210bir_o_st011,na,2018,savio,O,Open,PTT,41,2,0
+31,D,210bir_o_st011,na,2018,savio,O,Open,PTT,12,2,0
+31,E,210bir_o_st011,na,2018,savio,O,Open,PTT,62,2,0
+34,A,1610acr_o_st006,na,2018,ausfarm,O,Open,PTT,5,2,0
+34,B,1610acr_o_st006,na,2018,ausfarm,O,Open,PTT,10,2,0
+34,c,1610acr_o_st006,na,2018,ausfarm,O,Open,PTT,0,2,1
+34,d,1610acr_o_st006,na,2018,ausfarm,O,Open,PTT,0,2,1
+34,e,1610acr_o_st006,na,2018,ausfarm,O,Open,PTT,0,2,1
+35,a,210v1_o_st013,na,2018,ausfarm,O,Open,PTT,30,2,0
+35,b,210v1_o_st013,na,2018,ausfarm,O,Open,PTT,15,2,0
+35,c,210v1_o_st013,na,2018,ausfarm,O,Open,PTT,12,2,0
+35,d,210v1_o_st013,na,2018,ausfarm,O,Open,PTT,4,2,0
+10,A,219for_v_st119,1,2018,savio,V1,Visited,PTT,12,2,0
+10,B,219for_v_st119,1,2018,savio,V1,Visited,PTT,26,2,0
+10,C,219for_v_st119,1,2018,savio,V1,Visited,PTT,41,2,0
+10,D,219for_v_st119,1,2018,savio,V1,Visited,PTT,11,2,0
+10,E,219for_v_st119,1,2018,savio,V1,Visited,PTT,23,2,0
+152,A,169for_v_st207,1,2018,savio,V1,Visited,PTT,0,2,1
+152,B,169for_v_st207,1,2018,savio,V1,Visited,PTT,1,2,0
+152,C,169for_v_st207,1,2018,savio,V1,Visited,PTT,1,2,0
+152,D,169for_v_st207,1,2018,savio,V1,Visited,PTT,5,2,0
+152,E,169for_v_st207,1,2018,savio,V1,Visited,PTT,0,2,1
+201,A,219for_v_st218,1,2018,savio,V1,Visited,PTT,0,2,1
+201,B,219for_v_st218,1,2018,savio,V1,Visited,PTT,0,2,1
+201,C,219for_v_st218,1,2018,savio,V1,Visited,PTT,0,2,1
+201,D,219for_v_st218,1,2018,savio,V1,Visited,PTT,0,2,1
+201,E,219for_v_st218,1,2018,savio,V1,Visited,PTT,0,2,1
+217,A,209cos_v_st204,1,2018,rizzatto,V1,Visited,PTT,0,2,1
+217,B,209cos_v_st204,1,2018,rizzatto,V1,Visited,PTT,3,2,0
+217,C,209cos_v_st204,1,2018,rizzatto,V1,Visited,PTT,2,2,0
+217,D,209cos_v_st204,1,2018,rizzatto,V1,Visited,PTT,1,2,0
+275,E,910v1_v_st004,1,2018,ausfarm,V1,Visited,PTT,43,2,0
+275,D,910v1_v_st004,1,2018,ausfarm,V1,Visited,PTT,11,2,0
+275,C,910v1_v_st004,1,2018,ausfarm,V1,Visited,PTT,33,2,0
+275,B,910v1_v_st004,1,2018,ausfarm,V1,Visited,PTT,0,2,1
+275,A,910v1_v_st004,1,2018,ausfarm,V1,Visited,PTT,3,2,0
+245,D,169for_v_st208,1,2018,savio,V1,Visited,PTT,0,2,1
+245,C,169for_v_st208,1,2018,savio,V1,Visited,PTT,0,2,1
+245,B,169for_v_st208,1,2018,savio,V1,Visited,PTT,0,2,1
+245,A,169for_v_st208,1,2018,savio,V1,Visited,PTT,0,2,1
+219,A,219for_v_st116,1,2018,savio,V1,Visited,PTT,1,2,0
+219,B,219for_v_st116,1,2018,savio,V1,Visited,PTT,24,2,0
+219,C,219for_v_st116,1,2018,savio,V1,Visited,PTT,5,2,0
+219,D,219for_v_st116,1,2018,savio,V1,Visited,PTT,54,2,0
+219,E,219for_v_st116,1,2018,savio,V1,Visited,PTT,10,2,0
+104,a,219for_v_st120,1,2018,savio,V1,Visited,PTT,1,2,0
+104,b,219for_v_st120,1,2018,savio,V1,Visited,PTT,32,2,0
+104,c,219for_v_st120,1,2018,savio,V1,Visited,PTT,12,2,0
+104,d,219for_v_st120,1,2018,savio,V1,Visited,PTT,28,2,0
+104,e,219for_v_st120,1,2018,savio,V1,Visited,PTT,4,2,0
+29,A,39,1,2017,Savio,V1,Visited,PTT,0,2,1
+29,B,39,1,2017,Savio,V1,Visited,PTT,0,2,1
+29,C,39,1,2017,Savio,V1,Visited,PTT,0,2,1
+37,A,2015,1,2017,Savio,V1,Visited,PTT,0,2,1
+37,B,2015,1,2017,Savio,V1,Visited,PTT,0,2,1
+37,C,2015,1,2017,Savio,V1,Visited,PTT,0,2,1
+37,D,2015,1,2017,Savio,V1,Visited,PTT,0,2,1
+39,A,3000,1,2017,Ausfarm,V1,Visited,PTT,0,2,1
+39,B,3000,1,2017,Ausfarm,V1,Visited,PTT,0,2,1
+39,C,3000,1,2017,Ausfarm,V1,Visited,PTT,1,2,0
+39,D,3000,1,2017,Ausfarm,V1,Visited,PTT,0,2,1
+39,E,3000,1,2017,Ausfarm,V1,Visited,PTT,0,2,1
+40,A,33,1,2017,Savio,V1,Visited,PTT,0,2,1
+40,B,33,1,2017,Savio,V1,Visited,PTT,2,2,0
+40,C,33,1,2017,Savio,V1,Visited,PTT,0,2,1
+40,D,33,1,2017,Savio,V1,Visited,PTT,0,2,1
+40,E,33,1,2017,Savio,V1,Visited,PTT,0,2,1
+42,A,2011,1,2017,Savio,V1,Visited,PTT,0,2,1
+42,B,2011,1,2017,Savio,V1,Visited,PTT,0,2,1
+42,C,2011,1,2017,Savio,V1,Visited,PTT,0,2,1
+42,D,2011,1,2017,Savio,V1,Visited,PTT,0,2,1
+42,E,2011,1,2017,Savio,V1,Visited,PTT,0,2,1
+4,A,2014,1,2017,Savio,V1,Visited,PTT,0,2,1
+4,B,2014,1,2017,Savio,V1,Visited,PTT,0,2,1
+4,C,2014,1,2017,Savio,V1,Visited,PTT,0,2,1
+4,D,2014,1,2017,Savio,V1,Visited,PTT,0,2,1
+4,E,2014,1,2017,Savio,V1,Visited,PTT,0,2,1
+150,A,219for_v_st221,10,2018,savio,V10,Visited,PTT,0,2,1
+150,B,219for_v_st221,10,2018,savio,V10,Visited,PTT,0,2,1
+150,C,219for_v_st221,10,2018,savio,V10,Visited,PTT,0,2,1
+246,C,219for_v_st223,10,2018,savio,V10,Visited,PTT,99,2,0
+246,B,219for_v_st223,10,2018,savio,V10,Visited,PTT,86,2,0
+246,A,219for_v_st223,10,2018,savio,V10,Visited,PTT,87,2,0
+236,A,910v1_v_st001,10,2018,ausfarm,V10,Visited,PTT,71,2,0
+236,B,910v1_v_st001,10,2018,ausfarm,V10,Visited,PTT,35,2,0
+236,C,910v1_v_st001,10,2018,ausfarm,V10,Visited,PTT,42,2,0
+236,D,910v1_v_st001,10,2018,ausfarm,V10,Visited,PTT,37,2,0
+236,E,910v1_v_st001,10,2018,ausfarm,V10,Visited,PTT,4,2,0
+236,F,910v1_v_st001,10,2018,ausfarm,V10,Visited,PTT,48,2,0
+67,a,219for_v_st121,10,2018,savio,V10,Visited,PTT,12,2,0
+67,b,219for_v_st121,10,2018,savio,V10,Visited,PTT,106,2,0
+148,A,169for_v_st104,11,2018,savio,V11,Visited,PTT,5,2,0
+148,B,169for_v_st104,11,2018,savio,V11,Visited,PTT,21,2,0
+148,C,169for_v_st104,11,2018,savio,V11,Visited,PTT,2,2,0
+148,D,169for_v_st104,11,2018,savio,V11,Visited,PTT,5,2,0
+207,A,199for_v_std,11,2018,savio,V11,Visited,PTT,0,2,1
+207,B,199for_v_std,11,2018,savio,V11,Visited,PTT,0,2,1
+207,C,199for_v_std,11,2018,savio,V11,Visited,PTT,0,2,1
+207,D,199for_v_std,11,2018,savio,V11,Visited,PTT,0,2,1
+207,E,199for_v_std,11,2018,savio,V11,Visited,PTT,0,2,1
+135,C,199for_v_stc,11,2018,savio,V11,Visited,PTT,76,2,0
+135,D,199for_v_stc,11,2018,savio,V11,Visited,PTT,37,2,0
+135,E,199for_v_stc,11,2018,savio,V11,Visited,PTT,85,2,0
+135,a,199for_v_stc,11,2018,savio,V11,Visited,PTT,33,2,0
+135,b,199for_v_stc,11,2018,savio,V11,Visited,PTT,65,2,0
+165,A,219for_v_st126,12,2018,savio,V12,Visited,PTT,34,2,0
+165,B,219for_v_st126,12,2018,savio,V12,Visited,PTT,15,2,0
+165,C,219for_v_st126,12,2018,savio,V12,Visited,PTT,33,2,0
+165,D,219for_v_st126,12,2018,savio,V12,Visited,PTT,11,2,0
+165,E,219for_v_st126,12,2018,savio,V12,Visited,PTT,80,2,0
+125,a,209for_v_st213,12,2018,savio,V12,Visited,PTT,2,2,0
+125,b,209for_v_st213,12,2018,savio,V12,Visited,PTT,2,2,0
+125,c,209for_v_st213,12,2018,savio,V12,Visited,PTT,3,2,0
+125,d,209for_v_st213,12,2018,savio,V12,Visited,PTT,2,2,0
+176,A,910v1_v_st008,3,2018,ausfarm,V3,Visited,PTT,51,2,0
+176,B,910v1_v_st008,3,2018,ausfarm,V3,Visited,PTT,19,2,0
+176,C,910v1_v_st008,3,2018,ausfarm,V3,Visited,PTT,1,2,0
+176,D,910v1_v_st008,3,2018,ausfarm,V3,Visited,PTT,53,2,0
+176,E,910v1_v_st008,3,2018,ausfarm,V3,Visited,PTT,21,2,0
+277,E,209for_v_st211,3,2018,savio,V3,Visited,PTT,0,2,1
+277,D,209for_v_st211,3,2018,savio,V3,Visited,PTT,0,2,1
+277,C,209for_v_st211,3,2018,savio,V3,Visited,PTT,0,2,1
+277,B,209for_v_st211,3,2018,savio,V3,Visited,PTT,0,2,1
+277,A,209for_v_st211,3,2018,savio,V3,Visited,PTT,0,2,1
+256,E,910v1_v_st003,3,2018,ausfarm,V3,Visited,PTT,72,2,0
+256,D,910v1_v_st003,3,2018,ausfarm,V3,Visited,PTT,26,2,0
+256,C,910v1_v_st003,3,2018,ausfarm,V3,Visited,PTT,64,2,0
+256,B,910v1_v_st003,3,2018,ausfarm,V3,Visited,PTT,75,2,0
+256,A,910v1_v_st003,3,2018,ausfarm,V3,Visited,PTT,59,2,0
+242,E,199for_v_stb,3,2018,savio,V3,Visited,PTT,33,2,0
+242,A,199for_v_stb,3,2018,savio,V3,Visited,PTT,24,2,0
+242,B,199for_v_stb,3,2018,savio,V3,Visited,PTT,33,2,0
+242,D,199for_v_stb,3,2018,savio,V3,Visited,PTT,23,2,0
+242,C,199for_v_stb,3,2018,savio,V3,Visited,PTT,0,2,1
+80,a,169for_v_st107,3,2018,savio,V3,Visited,PTT,0,2,1
+80,b,169for_v_st107,3,2018,savio,V3,Visited,PTT,0,2,1
+80,c,169for_v_st107,3,2018,savio,V3,Visited,PTT,1,2,0
+80,d,169for_v_st107,3,2018,savio,V3,Visited,PTT,1,2,0
+80,e,169for_v_st107,3,2018,savio,V3,Visited,PTT,5,2,0
+84,a,910v1_v_st002,3,2018,ausfarm,V3,Visited,PTT,15,2,0
+84,b,910v1_v_st002,3,2018,ausfarm,V3,Visited,PTT,7,2,0
+84,c,910v1_v_st002,3,2018,ausfarm,V3,Visited,PTT,21,2,0
+84,d,910v1_v_st002,3,2018,ausfarm,V3,Visited,PTT,7,2,0
+84,e,910v1_v_st002,3,2018,ausfarm,V3,Visited,PTT,30,2,0
+89,a,219for_v_st113,3,2018,savio,V3,Visited,PTT,5,2,0
+89,b,219for_v_st113,3,2018,savio,V3,Visited,PTT,10,2,0
+89,c,219for_v_st113,3,2018,savio,V3,Visited,PTT,13,2,0
+89,d,219for_v_st113,3,2018,savio,V3,Visited,PTT,16,2,0
+89,e,219for_v_st113,3,2018,savio,V3,Visited,PTT,28,2,0
+106,a,209for_v_st110,3,2018,savio,V3,Visited,PTT,0,2,1
+106,b,209for_v_st110,3,2018,savio,V3,Visited,PTT,2,2,0
+106,c,209for_v_st110,3,2018,savio,V3,Visited,PTT,0,2,1
+106,d,209for_v_st110,3,2018,savio,V3,Visited,PTT,1,2,0
+114,a,219for_v_st219,3,2018,savio,V3,Visited,PTT,0,2,1
+114,b,219for_v_st219,3,2018,savio,V3,Visited,PTT,2,2,0
+114,c,219for_v_st219,3,2018,savio,V3,Visited,PTT,2,2,0
+114,d,219for_v_st219,3,2018,savio,V3,Visited,PTT,2,2,0
+24,A,106,3,2017,Nicoletti,V3,Visited,PTT,20,2,0
+24,B,106,3,2017,Nicoletti,V3,Visited,PTT,1,2,0
+24,C,106,3,2017,Nicoletti,V3,Visited,PTT,0,2,1
+24,D,106,3,2017,Nicoletti,V3,Visited,PTT,0,2,1
+32,A,96,3,2017,Nicoletti,V3,Visited,PTT,1,2,0
+32,B,96,3,2017,Nicoletti,V3,Visited,PTT,0,2,1
+32,C,96,3,2017,Nicoletti,V3,Visited,PTT,0,2,1
+32,D,96,3,2017,Nicoletti,V3,Visited,PTT,7,2,0
+32,E,96,3,2017,Nicoletti,V3,Visited,PTT,0,2,1
+41,A,62,3,2017,Savio,V3,Visited,PTT,2,2,0
+41,B,62,3,2017,Savio,V3,Visited,PTT,0,2,1
+41,C,62,3,2017,Savio,V3,Visited,PTT,0,2,1
+41,D,62,3,2017,Savio,V3,Visited,PTT,1,2,0
+41,E,62,3,2017,Savio,V3,Visited,PTT,4,2,0
+41,F,62,3,2017,Savio,V3,Visited,PTT,0,2,1
+43,A,3027,3,2017,Nicoletti,V3,Visited,PTT,0,2,1
+43,B,3027,3,2017,Nicoletti,V3,Visited,PTT,0,2,1
+43,C,3027,3,2017,Nicoletti,V3,Visited,PTT,0,2,1
+43,D,3027,3,2017,Nicoletti,V3,Visited,PTT,0,2,1
+43,E,3027,3,2017,Nicoletti,V3,Visited,PTT,0,2,1
+44,A,51,3,2017,Savio,V3,Visited,PTT,0,2,1
+44,B,51,3,2017,Savio,V3,Visited,PTT,6,2,0
+44,C,51,3,2017,Savio,V3,Visited,PTT,5,2,0
+44,D,51,3,2017,Savio,V3,Visited,PTT,9,2,0
+46,A,44,3,2017,Savio,V3,Visited,PTT,0,2,1
+46,B,44,3,2017,Savio,V3,Visited,PTT,0,2,1
+46,C,44,3,2017,Savio,V3,Visited,PTT,0,2,1
+46,D,44,3,2017,Savio,V3,Visited,PTT,0,2,1
+46,E,44,3,2017,Savio,V3,Visited,PTT,0,2,1
+11,A,219for_v_st217,5,2018,savio,V5,Visited,PTT,0,2,1
+11,B,219for_v_st217,5,2018,savio,V5,Visited,PTT,0,2,1
+11,C,219for_v_st217,5,2018,savio,V5,Visited,PTT,0,2,1
+11,D,219for_v_st217,5,2018,savio,V5,Visited,PTT,0,2,1
+157,A,209for_v_st212,5,2018,savio,V5,Visited,PTT,0,2,1
+157,B,209for_v_st212,5,2018,savio,V5,Visited,PTT,0,2,1
+157,C,209for_v_st212,5,2018,savio,V5,Visited,PTT,0,2,1
+157,D,209for_v_st212,5,2018,savio,V5,Visited,PTT,0,2,1
+200,A,169for_v_st103,5,2018,savio,V5,Visited,PTT,0,2,1
+200,B,169for_v_st103,5,2018,savio,V5,Visited,PTT,0,2,1
+200,C,169for_v_st103,5,2018,savio,V5,Visited,PTT,0,2,1
+200,D,169for_v_st103,5,2018,savio,V5,Visited,PTT,2,2,0
+200,E,169for_v_st103,5,2018,savio,V5,Visited,PTT,0,2,1
+200,F,169for_v_st103,5,2018,savio,V5,Visited,PTT,0,2,1
+209,A,169for_v_st005,5,2018,savio,V5,Visited,PTT,34,2,0
+209,B,169for_v_st005,5,2018,savio,V5,Visited,PTT,36,2,0
+209,C,169for_v_st005,5,2018,savio,V5,Visited,PTT,3,2,0
+209,D,169for_v_st005,5,2018,savio,V5,Visited,PTT,6,2,0
+243,E,219for_v_st123,5,2018,savio,V5,Visited,PTT,86,2,0
+243,D,219for_v_st123,5,2018,savio,V5,Visited,PTT,69,2,0
+243,C,219for_v_st123,5,2018,savio,V5,Visited,PTT,107,2,0
+243,B,219for_v_st123,5,2018,savio,V5,Visited,PTT,29,2,0
+243,A,219for_v_st123,5,2018,savio,V5,Visited,PTT,30,2,0
+222,A,169for_v_st004,5,2018,savio,V5,Visited,PTT,21,2,0
+222,B,169for_v_st004,5,2018,savio,V5,Visited,PTT,74,2,0
+222,C,169for_v_st004,5,2018,savio,V5,Visited,PTT,56,2,0
+222,D,169for_v_st004,5,2018,savio,V5,Visited,PTT,27,2,0
+222,E,169for_v_st004,5,2018,savio,V5,Visited,PTT,16,2,0
+143,B,910v1_v_st109,5,2018,ausfarm,V5,Visited,PTT,11,2,0
+143,A,910v1_v_st109,5,2018,ausfarm,V5,Visited,PTT,23,2,0
+143,C,910v1_v_st109,5,2018,ausfarm,V5,Visited,PTT,13,2,0
+143,D,910v1_v_st109,5,2018,ausfarm,V5,Visited,PTT,21,2,0
+143,E,910v1_v_st109,5,2018,ausfarm,V5,Visited,PTT,35,2,0
+12,A,1046,5,2017,Savio,V5,Visited,PTT,0,2,1
+12,B,1046,5,2017,Savio,V5,Visited,PTT,0,2,1
+12,C,1046,5,2017,Savio,V5,Visited,PTT,0,2,1
+12,D,1046,5,2017,Savio,V5,Visited,PTT,0,2,1
+13,A,2022,5,2017,Ausfarm,V5,Visited,PTT,22,2,0
+13,B,2022,5,2017,Ausfarm,V5,Visited,PTT,1,2,0
+13,C,2022,5,2017,Ausfarm,V5,Visited,PTT,6,2,0
+13,D,2022,5,2017,Ausfarm,V5,Visited,PTT,1,2,0
+23,A,2018,5,2017,Savio,V5,Visited,PTT,0,2,1
+23,B,2018,5,2017,Savio,V5,Visited,PTT,0,2,1
+23,C,2018,5,2017,Savio,V5,Visited,PTT,0,2,1
+23,D,2018,5,2017,Savio,V5,Visited,PTT,0,2,1
+23,E,2018,5,2017,Savio,V5,Visited,PTT,0,2,1
+26,A,55,5,2017,Savio,V5,Visited,PTT,0,2,1
+26,B,55,5,2017,Savio,V5,Visited,PTT,2,2,0
+26,C,55,5,2017,Savio,V5,Visited,PTT,1,2,0
+26,D,55,5,2017,Savio,V5,Visited,PTT,1,2,0
+26,E,55,5,2017,Savio,V5,Visited,PTT,1,2,0
+28,A,85,5,2017,Nicoletti,V5,Visited,PTT,9,2,0
+28,B,85,5,2017,Nicoletti,V5,Visited,PTT,7,2,0
+28,C,85,5,2017,Nicoletti,V5,Visited,PTT,4,2,0
+28,D,85,5,2017,Nicoletti,V5,Visited,PTT,2,2,0
+28,E,85,5,2017,Nicoletti,V5,Visited,PTT,5,2,0
+45,A,2028,5,2017,Ausfarm,V5,Visited,PTT,10,2,0
+45,B,2028,5,2017,Ausfarm,V5,Visited,PTT,0,2,1
+45,C,2028,5,2017,Ausfarm,V5,Visited,PTT,0,2,1
+45,D,2028,5,2017,Ausfarm,V5,Visited,PTT,22,2,0
+45,E,2028,5,2017,Ausfarm,V5,Visited,PTT,1,2,0
+27,A,910v1_v_st101,7,2018,ausfarm,V7,Visited,PTT,13,2,0
+27,B,910v1_v_st101,7,2018,ausfarm,V7,Visited,PTT,16,2,0
+27,C,910v1_v_st101,7,2018,ausfarm,V7,Visited,PTT,7,2,0
+27,D,910v1_v_st101,7,2018,ausfarm,V7,Visited,PTT,4,2,0
+27,E,910v1_v_st101,7,2018,ausfarm,V7,Visited,PTT,29,2,0
+158,A,169for_v_st106,7,2018,savio,V7,Visited,PTT,23,2,0
+158,B,169for_v_st106,7,2018,savio,V7,Visited,PTT,10,2,0
+158,C,169for_v_st106,7,2018,savio,V7,Visited,PTT,2,2,0
+158,D,169for_v_st106,7,2018,savio,V7,Visited,PTT,16,2,0
+158,E,169for_v_st106,7,2018,savio,V7,Visited,PTT,33,2,0
+197,A,169for_v_st205,7,2018,savio,V7,Visited,PTT,26,2,0
+197,B,169for_v_st205,7,2018,savio,V7,Visited,PTT,11,2,0
+197,C,169for_v_st205,7,2018,savio,V7,Visited,PTT,1,2,0
+214,A,219for_v_st224,7,2018,savio,V7,Visited,PTT,1,2,0
+214,B,219for_v_st224,7,2018,savio,V7,Visited,PTT,3,2,0
+214,C,219for_v_st224,7,2018,savio,V7,Visited,PTT,32,2,0
+214,D,219for_v_st224,7,2018,savio,V7,Visited,PTT,3,2,0
+218,A,910v1_v_st104,7,2018,ausfarm,V7,Visited,PTT,37,2,0
+218,B,910v1_v_st104,7,2018,ausfarm,V7,Visited,PTT,10,2,0
+218,C,910v1_v_st104,7,2018,ausfarm,V7,Visited,PTT,45,2,0
+218,D,910v1_v_st104,7,2018,ausfarm,V7,Visited,PTT,17,2,0
+218,E,910v1_v_st104,7,2018,ausfarm,V7,Visited,PTT,12,2,0
+283,E,910v1_v_st102,7,2018,ausfarm,V7,Visited,PTT,11,2,0
+283,D,910v1_v_st102,7,2018,ausfarm,V7,Visited,PTT,13,2,0
+283,C,910v1_v_st102,7,2018,ausfarm,V7,Visited,PTT,24,2,0
+283,B,910v1_v_st102,7,2018,ausfarm,V7,Visited,PTT,13,2,0
+283,A,910v1_v_st102,7,2018,ausfarm,V7,Visited,PTT,13,2,0
+69,a,910v1_v_st106,7,2018,ausfarm,V7,Visited,PTT,20,2,0
+69,b,910v1_v_st106,7,2018,ausfarm,V7,Visited,PTT,15,2,0
+69,c,910v1_v_st106,7,2018,ausfarm,V7,Visited,PTT,28,2,0
+69,d,910v1_v_st106,7,2018,ausfarm,V7,Visited,PTT,15,2,0
+94,a,219for_v_st124,7,2018,savio,V7,Visited,PTT,15,2,0
+94,b,219for_v_st124,7,2018,savio,V7,Visited,PTT,41,2,0
+94,c,219for_v_st124,7,2018,savio,V7,Visited,PTT,41,2,0
+94,d,219for_v_st124,7,2018,savio,V7,Visited,PTT,21,2,0
+94,e,219for_v_st124,7,2018,savio,V7,Visited,PTT,9,2,0
+184,A,199for_v_sta,8,2018,savio,V8,Visited,PTT,24,2,0
+184,B,199for_v_sta,8,2018,savio,V8,Visited,PTT,13,2,0
+184,C,199for_v_sta,8,2018,savio,V8,Visited,PTT,51,2,0
+184,D,199for_v_sta,8,2018,savio,V8,Visited,PTT,0,2,1
+292,E,910v1_v_st103,8,2018,ausfarm,V8,Visited,PTT,7,2,0
+292,D,910v1_v_st103,8,2018,ausfarm,V8,Visited,PTT,1,2,0
+292,C,910v1_v_st103,8,2018,ausfarm,V8,Visited,PTT,2,2,0
+292,B,910v1_v_st103,8,2018,ausfarm,V8,Visited,PTT,17,2,0
+292,A,910v1_v_st103,8,2018,ausfarm,V8,Visited,PTT,3,2,0
+138,A,219for_v_st222,8,2018,savio,V8,Visited,PTT,91,2,0
+138,B,219for_v_st222,8,2018,savio,V8,Visited,PTT,30,2,0
+138,C,219for_v_st222,8,2018,savio,V8,Visited,PTT,65,2,0
+138,D,219for_v_st222,8,2018,savio,V8,Visited,PTT,62,2,0
+138,E,219for_v_st222,8,2018,savio,V8,Visited,PTT,37,2,0
+39,a,209for_v_st209,8,2018,savio,V8,Visited,PTT,3,2,0
+39,b,209for_v_st209,8,2018,savio,V8,Visited,PTT,1,2,0
+39,c,209for_v_st209,8,2018,savio,V8,Visited,PTT,9,2,0
+39,d,209for_v_st209,8,2018,savio,V8,Visited,PTT,5,2,0
+173,A,169for_v_st105,9,2018,savio,V9,Visited,PTT,7,2,0
+173,B,169for_v_st105,9,2018,savio,V9,Visited,PTT,12,2,0
+173,C,169for_v_st105,9,2018,savio,V9,Visited,PTT,4,2,0
+173,D,169for_v_st105,9,2018,savio,V9,Visited,PTT,2,2,0
+121,a,209for_v_st214,9,2018,savio,V9,Visited,PTT,0,2,1
+121,b,209for_v_st214,9,2018,savio,V9,Visited,PTT,0,2,1
+121,c,209for_v_st214,9,2018,savio,V9,Visited,PTT,0,2,1
+121,d,209for_v_st214,9,2018,savio,V9,Visited,PTT,0,2,1
+121,e,209for_v_st214,9,2018,savio,V9,Visited,PTT,0,2,1
+6,A,199cos_c_st009,na,2018,rizzatto,C,Control,PTM,0,3,1
+6,B,199cos_c_st009,na,2018,rizzatto,C,Control,PTM,0,3,1
+6,C,199cos_c_st009,na,2018,rizzatto,C,Control,PTM,0,3,1
+6,D,199cos_c_st009,na,2018,rizzatto,C,Control,PTM,0,3,1
+6,E,199cos_c_st009,na,2018,rizzatto,C,Control,PTM,0,3,1
+211,A,139for_c_st020,na,2018,savio,C,Control,PTM,3,3,0
+211,B,139for_c_st020,na,2018,savio,C,Control,PTM,0,3,1
+211,C,139for_c_st020,na,2018,savio,C,Control,PTM,0,3,1
+288,E,139for_c_st009,na,2018,savio,C,Control,PTM,0,3,1
+288,D,139for_c_st009,na,2018,savio,C,Control,PTM,0,3,1
+288,C,139for_c_st009,na,2018,savio,C,Control,PTM,0,3,1
+288,B,139for_c_st009,na,2018,savio,C,Control,PTM,0,3,1
+288,A,139for_c_st009,na,2018,savio,C,Control,PTM,1,3,0
+97,a,179pit_c_st012,na,2018,fastfruit,C,Control,PTM,0,3,1
+97,b,179pit_c_st012,na,2018,fastfruit,C,Control,PTM,0,3,1
+97,c,179pit_c_st012,na,2018,fastfruit,C,Control,PTM,0,3,1
+97,d,179pit_c_st012,na,2018,fastfruit,C,Control,PTM,0,3,1
+97,e,179pit_c_st012,na,2018,fastfruit,C,Control,PTM,0,3,1
+110,a,159pom_c_st002a,NA,2018,ausfarm,C,Control,PTM,0,3,1
+110,b,159pom_c_st002a,NA,2018,ausfarm,C,Control,PTM,0,3,1
+110,c,159pom_c_st002a,NA,2018,ausfarm,C,Control,PTM,15,3,0
+110,d,159pom_c_st002a,NA,2018,ausfarm,C,Control,PTM,14,3,0
+110,e,159pom_c_st002a,NA,2018,ausfarm,C,Control,PTM,4,3,0
+14,A,2029,na,2017,Ausfarm,C,Control,PTM,0,3,1
+14,B,2029,na,2017,Ausfarm,C,Control,PTM,0,3,1
+14,C,2029,na,2017,Ausfarm,C,Control,PTM,0,3,1
+14,D,2029,na,2017,Ausfarm,C,Control,PTM,0,3,1
+14,E,2029,na,2017,Ausfarm,C,Control,PTM,0,3,1
+16,A,5001,na,2017,Ausfarm,C,Control,PTM,0,3,1
+16,B,5001,na,2017,Ausfarm,C,Control,PTM,0,3,1
+16,C,5001,na,2017,Ausfarm,C,Control,PTM,0,3,1
+16,D,5001,na,2017,Ausfarm,C,Control,PTM,0,3,1
+16,E,5001,na,2017,Ausfarm,C,Control,PTM,0,3,1
+17,A,5008,na,2017,Ausfarm,C,Control,PTM,0,3,1
+17,B,5008,na,2017,Ausfarm,C,Control,PTM,0,3,1
+17,C,5008,na,2017,Ausfarm,C,Control,PTM,0,3,1
+17,D,5008,na,2017,Ausfarm,C,Control,PTM,0,3,1
+17,E,5008,na,2017,Ausfarm,C,Control,PTM,0,3,1
+1,A,5007,na,2017,Ausfarm,C,Control,PTM,0,3,1
+1,B,5007,na,2017,Ausfarm,C,Control,PTM,0,3,1
+1,C,5007,na,2017,Ausfarm,C,Control,PTM,0,3,1
+1,D,5007,na,2017,Ausfarm,C,Control,PTM,0,3,1
+21,A,5011,na,2017,Ausfarm,C,Control,PTM,0,3,1
+21,B,5011,na,2017,Ausfarm,C,Control,PTM,0,3,1
+21,C,5011,na,2017,Ausfarm,C,Control,PTM,0,3,1
+27,A,50,na,2017,Savio,C,Control,PTM,0,3,1
+27,B,50,na,2017,Savio,C,Control,PTM,0,3,1
+27,C,50,na,2017,Savio,C,Control,PTM,0,3,1
+27,D,50,na,2017,Savio,C,Control,PTM,0,3,1
+27,E,50,na,2017,Savio,C,Control,PTM,0,3,1
+2,A,5002,na,2017,Ausfarm,C,Control,PTM,0,3,1
+2,B,5002,na,2017,Ausfarm,C,Control,PTM,0,3,1
+2,C,5002,na,2017,Ausfarm,C,Control,PTM,0,3,1
+2,D,5002,na,2017,Ausfarm,C,Control,PTM,0,3,1
+2,E,5002,na,2017,Ausfarm,C,Control,PTM,0,3,1
+35,A,5020,na,2017,Ausfarm,C,Control,PTM,0,3,1
+35,B,5020,na,2017,Ausfarm,C,Control,PTM,0,3,1
+35,C,5020,na,2017,Ausfarm,C,Control,PTM,0,3,1
+35,D,5020,na,2017,Ausfarm,C,Control,PTM,0,3,1
+3,A,101,na,2017,Nicoletti,C,Control,PTM,0,3,1
+3,B,101,na,2017,Nicoletti,C,Control,PTM,0,3,1
+3,C,101,na,2017,Nicoletti,C,Control,PTM,0,3,1
+3,D,101,na,2017,Nicoletti,C,Control,PTM,0,3,1
+5,A,90,na,2017,Nicoletti,C,Control,PTM,0,3,1
+5,B,90,na,2017,Nicoletti,C,Control,PTM,0,3,1
+5,C,90,na,2017,Nicoletti,C,Control,PTM,0,3,1
+5,D,90,na,2017,Nicoletti,C,Control,PTM,0,3,1
+5,E,90,na,2017,Nicoletti,C,Control,PTM,0,3,1
+6,A,3001,na,2017,Ausfarm,C,Control,PTM,0,3,1
+6,B,3001,na,2017,Ausfarm,C,Control,PTM,0,3,1
+6,C,3001,na,2017,Ausfarm,C,Control,PTM,0,3,1
+6,D,3001,na,2017,Ausfarm,C,Control,PTM,0,3,1
+6,E,3001,na,2017,Ausfarm,C,Control,PTM,0,3,1
+8,A,2017,na,2017,Savio,C,Control,PTM,0,3,1
+8,B,2017,na,2017,Savio,C,Control,PTM,0,3,1
+8,C,2017,na,2017,Savio,C,Control,PTM,0,3,1
+8,D,2017,na,2017,Savio,C,Control,PTM,0,3,1
+8,E,2017,na,2017,Savio,C,Control,PTM,0,3,1
+8,A,1710for_hp_st003,NA,2018,savio,HP,Hand pollinated,PTM,37,3,0
+8,B,1710for_hp_st003,NA,2018,savio,HP,Hand pollinated,PTM,18,3,0
+8,C,1710for_hp_st003,NA,2018,savio,HP,Hand pollinated,PTM,58,3,0
+8,D,1710for_hp_st003,NA,2018,savio,HP,Hand pollinated,PTM,57,3,0
+8,E,1710for_hp_st003,NA,2018,savio,HP,Hand pollinated,PTM,62,3,0
+18,A,219pit_hp_st305,NA,2018,fastfruit,HP,Hand pollinated,PTM,2,3,0
+18,B,219pit_hp_st305,NA,2018,fastfruit,HP,Hand pollinated,PTM,0,3,1
+18,C,219pit_hp_st305,NA,2018,fastfruit,HP,Hand pollinated,PTM,1,3,0
+18,D,219pit_hp_st305,NA,2018,fastfruit,HP,Hand pollinated,PTM,1,3,0
+18,E,219pit_hp_st305,NA,2018,fastfruit,HP,Hand pollinated,PTM,0,3,1
+18,F,219pit_hp_st305,NA,2018,fastfruit,HP,Hand pollinated,PTM,0,3,1
+169,A,1710for_hp_st008,na,2018,savio,HP,Hand pollinated,PTM,75,3,0
+169,B,1710for_hp_st008,na,2018,savio,HP,Hand pollinated,PTM,77,3,0
+169,C,1710for_hp_st008,na,2018,savio,HP,Hand pollinated,PTM,24,3,0
+169,D,1710for_hp_st008,na,2018,savio,HP,Hand pollinated,PTM,75,3,0
+169,E,1710for_hp_st008,na,2018,savio,HP,Hand pollinated,PTM,91,3,0
+169,F,1710for_hp_st008,na,2018,savio,HP,Hand pollinated,PTM,123,3,0
+182,A,1710acr_hp_st103,na,2018,ausfarm,HP,Hand pollinated,PTM,35,3,0
+182,B,1710acr_hp_st103,na,2018,ausfarm,HP,Hand pollinated,PTM,63,3,0
+182,C,1710acr_hp_st103,na,2018,ausfarm,HP,Hand pollinated,PTM,7,3,0
+182,D,1710acr_hp_st103,na,2018,ausfarm,HP,Hand pollinated,PTM,36,3,0
+182,E,1710acr_hp_st103,na,2018,ausfarm,HP,Hand pollinated,PTM,14,3,0
+46,a,1710v1_hp_st108,na,2018,ausfarm,HP,Hand pollinated,PTM,38,3,0
+46,b,1710v1_hp_st108,na,2018,ausfarm,HP,Hand pollinated,PTM,39,3,0
+46,c,1710v1_hp_st108,na,2018,ausfarm,HP,Hand pollinated,PTM,29,3,0
+46,d,1710v1_hp_st108,na,2018,ausfarm,HP,Hand pollinated,PTM,35,3,0
+46,e,1710v1_hp_st108,na,2018,ausfarm,HP,Hand pollinated,PTM,42,3,0
+11,A,4014,na,2017,Savio,HP,Hand pollinated,PTM,0,3,1
+11,B,4014,na,2017,Savio,HP,Hand pollinated,PTM,0,3,1
+11,C,4014,na,2017,Savio,HP,Hand pollinated,PTM,0,3,1
+11,D,4014,na,2017,Savio,HP,Hand pollinated,PTM,2,3,0
+18,A,4015,na,2017,Savio,HP,Hand pollinated,PTM,32,3,0
+18,B,4015,na,2017,Savio,HP,Hand pollinated,PTM,12,3,0
+18,C,4015,na,2017,Savio,HP,Hand pollinated,PTM,16,3,0
+18,D,4015,na,2017,Savio,HP,Hand pollinated,PTM,37,3,0
+19,A,4017,na,2017,Savio,HP,Hand pollinated,PTM,3,3,0
+19,B,4017,na,2017,Savio,HP,Hand pollinated,PTM,0,3,1
+19,C,4017,na,2017,Savio,HP,Hand pollinated,PTM,4,3,0
+19,D,4017,na,2017,Savio,HP,Hand pollinated,PTM,4,3,0
+19,E,4017,na,2017,Savio,HP,Hand pollinated,PTM,0,3,1
+30,A,4013,na,2017,Savio,HP,Hand pollinated,PTM,9,3,0
+30,B,4013,na,2017,Savio,HP,Hand pollinated,PTM,18,3,0
+30,C,4013,na,2017,Savio,HP,Hand pollinated,PTM,2,3,0
+30,D,4013,na,2017,Savio,HP,Hand pollinated,PTM,7,3,0
+30,E,4013,na,2017,Savio,HP,Hand pollinated,PTM,2,3,0
+31,A,4004,na,2017,Savio,HP,Hand pollinated,PTM,11,3,0
+31,B,4004,na,2017,Savio,HP,Hand pollinated,PTM,21,3,0
+31,C,4004,na,2017,Savio,HP,Hand pollinated,PTM,17,3,0
+31,D,4004,na,2017,Savio,HP,Hand pollinated,PTM,8,3,0
+9,A,4018,na,2017,Savio,HP,Hand pollinated,PTM,0,3,1
+9,B,4018,na,2017,Savio,HP,Hand pollinated,PTM,3,3,0
+9,C,4018,na,2017,Savio,HP,Hand pollinated,PTM,2,3,0
+9,D,4018,na,2017,Savio,HP,Hand pollinated,PTM,1,3,0
+9,E,4018,na,2017,Savio,HP,Hand pollinated,PTM,1,3,0
+1,A,1610for_o_st019,na,2018,savio,O,Open,PTM,0,3,1
+1,B,1610for_o_st019,na,2018,savio,O,Open,PTM,0,3,1
+4,A,1610for_o_st012,NA,2018,savio,O,Open,PTM,0,3,1
+4,B,1610for_o_st012,NA,2018,savio,O,Open,PTM,0,3,1
+4,C,1610for_o_st012,NA,2018,savio,O,Open,PTM,1,3,0
+4,D,1610for_o_st012,NA,2018,savio,O,Open,PTM,0,3,1
+4,E,1610for_o_st012,NA,2018,savio,O,Open,PTM,0,3,1
+5,A,210v1_o_st015,na,2018,ausfarm,O,Open,PTM,3,3,0
+5,B,210v1_o_st015,na,2018,ausfarm,O,Open,PTM,0,3,1
+5,C,210v1_o_st015,na,2018,ausfarm,O,Open,PTM,3,3,0
+5,D,210v1_o_st015,na,2018,ausfarm,O,Open,PTM,6,3,0
+5,E,210v1_o_st015,na,2018,ausfarm,O,Open,PTM,0,3,1
+9,A,210bir_o_st017,na,2018,savio,O,Open,PTM,0,3,1
+9,B,210bir_o_st017,na,2018,savio,O,Open,PTM,0,3,1
+9,C,210bir_o_st017,na,2018,savio,O,Open,PTM,0,3,1
+9,D,210bir_o_st017,na,2018,savio,O,Open,PTM,0,3,1
+9,E,210bir_o_st017,na,2018,savio,O,Open,PTM,0,3,1
+12,A,1610acr_o_st010,na,2018,ausfarm,O,Open,PTM,0,3,1
+12,B,1610acr_o_st010,na,2018,ausfarm,O,Open,PTM,0,3,1
+12,C,1610acr_o_st010,na,2018,ausfarm,O,Open,PTM,0,3,1
+12,D,1610acr_o_st010,na,2018,ausfarm,O,Open,PTM,0,3,1
+12,E,1610acr_o_st010,na,2018,ausfarm,O,Open,PTM,0,3,1
+12,F,1610acr_o_st010,na,2018,ausfarm,O,Open,PTM,0,3,1
+21,A,210v1_o_st014,na,2018,ausfarm,O,Open,PTM,2,3,0
+21,B,210v1_o_st014,na,2018,ausfarm,O,Open,PTM,5,3,0
+21,C,210v1_o_st014,na,2018,ausfarm,O,Open,PTM,1,3,0
+21,D,210v1_o_st014,na,2018,ausfarm,O,Open,PTM,2,3,0
+22,A,1610acr_o_st004,NA,2018,ausfarm,O,Open,PTM,0,3,1
+22,B,1610acr_o_st004,NA,2018,ausfarm,O,Open,PTM,1,3,0
+22,C,1610acr_o_st004,NA,2018,ausfarm,O,Open,PTM,0,3,1
+22,D,1610acr_o_st004,NA,2018,ausfarm,O,Open,PTM,1,3,0
+22,E,1610acr_o_st004,NA,2018,ausfarm,O,Open,PTM,1,3,0
+22,F,1610acr_o_st004,NA,2018,ausfarm,O,Open,PTM,0,3,1
+26,A,1610acr_o_st012,na,2018,ausfarm,O,Open,PTM,0,3,1
+26,B,1610acr_o_st012,na,2018,ausfarm,O,Open,PTM,0,3,1
+26,C,1610acr_o_st012,na,2018,ausfarm,O,Open,PTM,0,3,1
+26,D,1610acr_o_st012,na,2018,ausfarm,O,Open,PTM,0,3,1
+26,E,1610acr_o_st012,na,2018,ausfarm,O,Open,PTM,0,3,1
+30,A,210v1_o_st017,NA,2018,ausfarm,O,Open,PTM,0,3,1
+30,B,210v1_o_st017,NA,2018,ausfarm,O,Open,PTM,0,3,1
+30,C,210v1_o_st017,NA,2018,ausfarm,O,Open,PTM,0,3,1
+30,D,210v1_o_st017,NA,2018,ausfarm,O,Open,PTM,0,3,1
+30,E,210v1_o_st017,NA,2018,ausfarm,O,Open,PTM,7,3,0
+31,A,210bir_o_st011,na,2018,savio,O,Open,PTM,0,3,1
+31,B,210bir_o_st011,na,2018,savio,O,Open,PTM,1,3,0
+31,C,210bir_o_st011,na,2018,savio,O,Open,PTM,0,3,1
+31,D,210bir_o_st011,na,2018,savio,O,Open,PTM,1,3,0
+31,E,210bir_o_st011,na,2018,savio,O,Open,PTM,0,3,1
+34,A,1610acr_o_st006,na,2018,ausfarm,O,Open,PTM,2,3,0
+34,B,1610acr_o_st006,na,2018,ausfarm,O,Open,PTM,0,3,1
+34,c,1610acr_o_st006,na,2018,ausfarm,O,Open,PTM,0,3,1
+34,d,1610acr_o_st006,na,2018,ausfarm,O,Open,PTM,0,3,1
+34,e,1610acr_o_st006,na,2018,ausfarm,O,Open,PTM,0,3,1
+35,a,210v1_o_st013,na,2018,ausfarm,O,Open,PTM,1,3,0
+35,b,210v1_o_st013,na,2018,ausfarm,O,Open,PTM,0,3,1
+35,c,210v1_o_st013,na,2018,ausfarm,O,Open,PTM,2,3,0
+35,d,210v1_o_st013,na,2018,ausfarm,O,Open,PTM,1,3,0
+10,A,219for_v_st119,1,2018,savio,V1,Visited,PTM,0,3,1
+10,B,219for_v_st119,1,2018,savio,V1,Visited,PTM,5,3,0
+10,C,219for_v_st119,1,2018,savio,V1,Visited,PTM,2,3,0
+10,D,219for_v_st119,1,2018,savio,V1,Visited,PTM,2,3,0
+10,E,219for_v_st119,1,2018,savio,V1,Visited,PTM,0,3,1
+152,A,169for_v_st207,1,2018,savio,V1,Visited,PTM,0,3,1
+152,B,169for_v_st207,1,2018,savio,V1,Visited,PTM,0,3,1
+152,C,169for_v_st207,1,2018,savio,V1,Visited,PTM,0,3,1
+152,D,169for_v_st207,1,2018,savio,V1,Visited,PTM,0,3,1
+152,E,169for_v_st207,1,2018,savio,V1,Visited,PTM,0,3,1
+201,A,219for_v_st218,1,2018,savio,V1,Visited,PTM,0,3,1
+201,B,219for_v_st218,1,2018,savio,V1,Visited,PTM,0,3,1
+201,C,219for_v_st218,1,2018,savio,V1,Visited,PTM,0,3,1
+201,D,219for_v_st218,1,2018,savio,V1,Visited,PTM,0,3,1
+201,E,219for_v_st218,1,2018,savio,V1,Visited,PTM,0,3,1
+217,A,209cos_v_st204,1,2018,rizzatto,V1,Visited,PTM,0,3,1
+217,B,209cos_v_st204,1,2018,rizzatto,V1,Visited,PTM,0,3,1
+217,C,209cos_v_st204,1,2018,rizzatto,V1,Visited,PTM,0,3,1
+217,D,209cos_v_st204,1,2018,rizzatto,V1,Visited,PTM,0,3,1
+275,E,910v1_v_st004,1,2018,ausfarm,V1,Visited,PTM,0,3,1
+275,D,910v1_v_st004,1,2018,ausfarm,V1,Visited,PTM,9,3,0
+275,C,910v1_v_st004,1,2018,ausfarm,V1,Visited,PTM,0,3,1
+275,B,910v1_v_st004,1,2018,ausfarm,V1,Visited,PTM,0,3,1
+275,A,910v1_v_st004,1,2018,ausfarm,V1,Visited,PTM,0,3,1
+245,D,169for_v_st208,1,2018,savio,V1,Visited,PTM,0,3,1
+245,C,169for_v_st208,1,2018,savio,V1,Visited,PTM,0,3,1
+245,B,169for_v_st208,1,2018,savio,V1,Visited,PTM,0,3,1
+245,A,169for_v_st208,1,2018,savio,V1,Visited,PTM,0,3,1
+219,A,219for_v_st116,1,2018,savio,V1,Visited,PTM,0,3,1
+219,B,219for_v_st116,1,2018,savio,V1,Visited,PTM,0,3,1
+219,C,219for_v_st116,1,2018,savio,V1,Visited,PTM,0,3,1
+219,D,219for_v_st116,1,2018,savio,V1,Visited,PTM,5,3,0
+219,E,219for_v_st116,1,2018,savio,V1,Visited,PTM,1,3,0
+104,a,219for_v_st120,1,2018,savio,V1,Visited,PTM,0,3,1
+104,b,219for_v_st120,1,2018,savio,V1,Visited,PTM,0,3,1
+104,c,219for_v_st120,1,2018,savio,V1,Visited,PTM,1,3,0
+104,d,219for_v_st120,1,2018,savio,V1,Visited,PTM,2,3,0
+104,e,219for_v_st120,1,2018,savio,V1,Visited,PTM,0,3,1
+29,A,39,1,2017,Savio,V1,Visited,PTM,0,3,1
+29,B,39,1,2017,Savio,V1,Visited,PTM,0,3,1
+29,C,39,1,2017,Savio,V1,Visited,PTM,0,3,1
+37,A,2015,1,2017,Savio,V1,Visited,PTM,0,3,1
+37,B,2015,1,2017,Savio,V1,Visited,PTM,0,3,1
+37,C,2015,1,2017,Savio,V1,Visited,PTM,0,3,1
+37,D,2015,1,2017,Savio,V1,Visited,PTM,0,3,1
+39,A,3000,1,2017,Ausfarm,V1,Visited,PTM,0,3,1
+39,B,3000,1,2017,Ausfarm,V1,Visited,PTM,0,3,1
+39,C,3000,1,2017,Ausfarm,V1,Visited,PTM,0,3,1
+39,D,3000,1,2017,Ausfarm,V1,Visited,PTM,0,3,1
+39,E,3000,1,2017,Ausfarm,V1,Visited,PTM,0,3,1
+40,A,33,1,2017,Savio,V1,Visited,PTM,0,3,1
+40,B,33,1,2017,Savio,V1,Visited,PTM,0,3,1
+40,C,33,1,2017,Savio,V1,Visited,PTM,0,3,1
+40,D,33,1,2017,Savio,V1,Visited,PTM,0,3,1
+40,E,33,1,2017,Savio,V1,Visited,PTM,0,3,1
+42,A,2011,1,2017,Savio,V1,Visited,PTM,0,3,1
+42,B,2011,1,2017,Savio,V1,Visited,PTM,0,3,1
+42,C,2011,1,2017,Savio,V1,Visited,PTM,0,3,1
+42,D,2011,1,2017,Savio,V1,Visited,PTM,0,3,1
+42,E,2011,1,2017,Savio,V1,Visited,PTM,0,3,1
+4,A,2014,1,2017,Savio,V1,Visited,PTM,0,3,1
+4,B,2014,1,2017,Savio,V1,Visited,PTM,0,3,1
+4,C,2014,1,2017,Savio,V1,Visited,PTM,0,3,1
+4,D,2014,1,2017,Savio,V1,Visited,PTM,0,3,1
+4,E,2014,1,2017,Savio,V1,Visited,PTM,0,3,1
+150,A,219for_v_st221,10,2018,savio,V10,Visited,PTM,0,3,1
+150,B,219for_v_st221,10,2018,savio,V10,Visited,PTM,0,3,1
+150,C,219for_v_st221,10,2018,savio,V10,Visited,PTM,0,3,1
+246,C,219for_v_st223,10,2018,savio,V10,Visited,PTM,1,3,0
+246,B,219for_v_st223,10,2018,savio,V10,Visited,PTM,1,3,0
+246,A,219for_v_st223,10,2018,savio,V10,Visited,PTM,2,3,0
+236,A,910v1_v_st001,10,2018,ausfarm,V10,Visited,PTM,0,3,1
+236,B,910v1_v_st001,10,2018,ausfarm,V10,Visited,PTM,1,3,0
+236,C,910v1_v_st001,10,2018,ausfarm,V10,Visited,PTM,0,3,1
+236,D,910v1_v_st001,10,2018,ausfarm,V10,Visited,PTM,0,3,1
+236,E,910v1_v_st001,10,2018,ausfarm,V10,Visited,PTM,0,3,1
+236,F,910v1_v_st001,10,2018,ausfarm,V10,Visited,PTM,0,3,1
+67,a,219for_v_st121,10,2018,savio,V10,Visited,PTM,0,3,1
+67,b,219for_v_st121,10,2018,savio,V10,Visited,PTM,0,3,1
+148,A,169for_v_st104,11,2018,savio,V11,Visited,PTM,0,3,1
+148,B,169for_v_st104,11,2018,savio,V11,Visited,PTM,1,3,0
+148,C,169for_v_st104,11,2018,savio,V11,Visited,PTM,1,3,0
+148,D,169for_v_st104,11,2018,savio,V11,Visited,PTM,0,3,1
+207,A,199for_v_std,11,2018,savio,V11,Visited,PTM,0,3,1
+207,B,199for_v_std,11,2018,savio,V11,Visited,PTM,0,3,1
+207,C,199for_v_std,11,2018,savio,V11,Visited,PTM,0,3,1
+207,D,199for_v_std,11,2018,savio,V11,Visited,PTM,0,3,1
+207,E,199for_v_std,11,2018,savio,V11,Visited,PTM,0,3,1
+135,C,199for_v_stc,11,2018,savio,V11,Visited,PTM,9,3,0
+135,D,199for_v_stc,11,2018,savio,V11,Visited,PTM,1,3,0
+135,E,199for_v_stc,11,2018,savio,V11,Visited,PTM,2,3,0
+135,a,199for_v_stc,11,2018,savio,V11,Visited,PTM,1,3,0
+135,b,199for_v_stc,11,2018,savio,V11,Visited,PTM,3,3,0
+165,A,219for_v_st126,12,2018,savio,V12,Visited,PTM,16,3,0
+165,B,219for_v_st126,12,2018,savio,V12,Visited,PTM,5,3,0
+165,C,219for_v_st126,12,2018,savio,V12,Visited,PTM,4,3,0
+165,D,219for_v_st126,12,2018,savio,V12,Visited,PTM,0,3,1
+165,E,219for_v_st126,12,2018,savio,V12,Visited,PTM,10,3,0
+125,a,209for_v_st213,12,2018,savio,V12,Visited,PTM,0,3,1
+125,b,209for_v_st213,12,2018,savio,V12,Visited,PTM,0,3,1
+125,c,209for_v_st213,12,2018,savio,V12,Visited,PTM,0,3,1
+125,d,209for_v_st213,12,2018,savio,V12,Visited,PTM,0,3,1
+176,A,910v1_v_st008,3,2018,ausfarm,V3,Visited,PTM,0,3,1
+176,B,910v1_v_st008,3,2018,ausfarm,V3,Visited,PTM,0,3,1
+176,C,910v1_v_st008,3,2018,ausfarm,V3,Visited,PTM,0,3,1
+176,D,910v1_v_st008,3,2018,ausfarm,V3,Visited,PTM,6,3,0
+176,E,910v1_v_st008,3,2018,ausfarm,V3,Visited,PTM,1,3,0
+277,E,209for_v_st211,3,2018,savio,V3,Visited,PTM,0,3,1
+277,D,209for_v_st211,3,2018,savio,V3,Visited,PTM,0,3,1
+277,C,209for_v_st211,3,2018,savio,V3,Visited,PTM,0,3,1
+277,B,209for_v_st211,3,2018,savio,V3,Visited,PTM,0,3,1
+277,A,209for_v_st211,3,2018,savio,V3,Visited,PTM,0,3,1
+256,E,910v1_v_st003,3,2018,ausfarm,V3,Visited,PTM,0,3,1
+256,D,910v1_v_st003,3,2018,ausfarm,V3,Visited,PTM,0,3,1
+256,C,910v1_v_st003,3,2018,ausfarm,V3,Visited,PTM,0,3,1
+256,B,910v1_v_st003,3,2018,ausfarm,V3,Visited,PTM,7,3,0
+256,A,910v1_v_st003,3,2018,ausfarm,V3,Visited,PTM,2,3,0
+242,E,199for_v_stb,3,2018,savio,V3,Visited,PTM,0,3,1
+242,A,199for_v_stb,3,2018,savio,V3,Visited,PTM,0,3,1
+242,B,199for_v_stb,3,2018,savio,V3,Visited,PTM,0,3,1
+242,D,199for_v_stb,3,2018,savio,V3,Visited,PTM,0,3,1
+242,C,199for_v_stb,3,2018,savio,V3,Visited,PTM,0,3,1
+80,a,169for_v_st107,3,2018,savio,V3,Visited,PTM,0,3,1
+80,b,169for_v_st107,3,2018,savio,V3,Visited,PTM,0,3,1
+80,c,169for_v_st107,3,2018,savio,V3,Visited,PTM,0,3,1
+80,d,169for_v_st107,3,2018,savio,V3,Visited,PTM,0,3,1
+80,e,169for_v_st107,3,2018,savio,V3,Visited,PTM,0,3,1
+84,a,910v1_v_st002,3,2018,ausfarm,V3,Visited,PTM,0,3,1
+84,b,910v1_v_st002,3,2018,ausfarm,V3,Visited,PTM,0,3,1
+84,c,910v1_v_st002,3,2018,ausfarm,V3,Visited,PTM,1,3,0
+84,d,910v1_v_st002,3,2018,ausfarm,V3,Visited,PTM,1,3,0
+84,e,910v1_v_st002,3,2018,ausfarm,V3,Visited,PTM,0,3,1
+89,a,219for_v_st113,3,2018,savio,V3,Visited,PTM,1,3,0
+89,b,219for_v_st113,3,2018,savio,V3,Visited,PTM,0,3,1
+89,c,219for_v_st113,3,2018,savio,V3,Visited,PTM,1,3,0
+89,d,219for_v_st113,3,2018,savio,V3,Visited,PTM,2,3,0
+89,e,219for_v_st113,3,2018,savio,V3,Visited,PTM,16,3,0
+106,a,209for_v_st110,3,2018,savio,V3,Visited,PTM,1,3,0
+106,b,209for_v_st110,3,2018,savio,V3,Visited,PTM,0,3,1
+106,c,209for_v_st110,3,2018,savio,V3,Visited,PTM,0,3,1
+106,d,209for_v_st110,3,2018,savio,V3,Visited,PTM,0,3,1
+114,a,219for_v_st219,3,2018,savio,V3,Visited,PTM,0,3,1
+114,b,219for_v_st219,3,2018,savio,V3,Visited,PTM,1,3,0
+114,c,219for_v_st219,3,2018,savio,V3,Visited,PTM,0,3,1
+114,d,219for_v_st219,3,2018,savio,V3,Visited,PTM,1,3,0
+24,A,106,3,2017,Nicoletti,V3,Visited,PTM,0,3,1
+24,B,106,3,2017,Nicoletti,V3,Visited,PTM,0,3,1
+24,C,106,3,2017,Nicoletti,V3,Visited,PTM,0,3,1
+24,D,106,3,2017,Nicoletti,V3,Visited,PTM,0,3,1
+32,A,96,3,2017,Nicoletti,V3,Visited,PTM,0,3,1
+32,B,96,3,2017,Nicoletti,V3,Visited,PTM,0,3,1
+32,C,96,3,2017,Nicoletti,V3,Visited,PTM,0,3,1
+32,D,96,3,2017,Nicoletti,V3,Visited,PTM,0,3,1
+32,E,96,3,2017,Nicoletti,V3,Visited,PTM,0,3,1
+41,A,62,3,2017,Savio,V3,Visited,PTM,0,3,1
+41,B,62,3,2017,Savio,V3,Visited,PTM,0,3,1
+41,C,62,3,2017,Savio,V3,Visited,PTM,0,3,1
+41,D,62,3,2017,Savio,V3,Visited,PTM,0,3,1
+41,E,62,3,2017,Savio,V3,Visited,PTM,0,3,1
+41,F,62,3,2017,Savio,V3,Visited,PTM,0,3,1
+43,A,3027,3,2017,Nicoletti,V3,Visited,PTM,0,3,1
+43,B,3027,3,2017,Nicoletti,V3,Visited,PTM,0,3,1
+43,C,3027,3,2017,Nicoletti,V3,Visited,PTM,0,3,1
+43,D,3027,3,2017,Nicoletti,V3,Visited,PTM,0,3,1
+43,E,3027,3,2017,Nicoletti,V3,Visited,PTM,0,3,1
+44,A,51,3,2017,Savio,V3,Visited,PTM,0,3,1
+44,B,51,3,2017,Savio,V3,Visited,PTM,1,3,0
+44,C,51,3,2017,Savio,V3,Visited,PTM,1,3,0
+44,D,51,3,2017,Savio,V3,Visited,PTM,1,3,0
+46,A,44,3,2017,Savio,V3,Visited,PTM,0,3,1
+46,B,44,3,2017,Savio,V3,Visited,PTM,0,3,1
+46,C,44,3,2017,Savio,V3,Visited,PTM,0,3,1
+46,D,44,3,2017,Savio,V3,Visited,PTM,0,3,1
+46,E,44,3,2017,Savio,V3,Visited,PTM,0,3,1
+11,A,219for_v_st217,5,2018,savio,V5,Visited,PTM,0,3,1
+11,B,219for_v_st217,5,2018,savio,V5,Visited,PTM,0,3,1
+11,C,219for_v_st217,5,2018,savio,V5,Visited,PTM,0,3,1
+11,D,219for_v_st217,5,2018,savio,V5,Visited,PTM,0,3,1
+157,A,209for_v_st212,5,2018,savio,V5,Visited,PTM,0,3,1
+157,B,209for_v_st212,5,2018,savio,V5,Visited,PTM,0,3,1
+157,C,209for_v_st212,5,2018,savio,V5,Visited,PTM,0,3,1
+157,D,209for_v_st212,5,2018,savio,V5,Visited,PTM,0,3,1
+200,A,169for_v_st103,5,2018,savio,V5,Visited,PTM,0,3,1
+200,B,169for_v_st103,5,2018,savio,V5,Visited,PTM,0,3,1
+200,C,169for_v_st103,5,2018,savio,V5,Visited,PTM,0,3,1
+200,D,169for_v_st103,5,2018,savio,V5,Visited,PTM,0,3,1
+200,E,169for_v_st103,5,2018,savio,V5,Visited,PTM,0,3,1
+200,F,169for_v_st103,5,2018,savio,V5,Visited,PTM,0,3,1
+209,A,169for_v_st005,5,2018,savio,V5,Visited,PTM,12,3,0
+209,B,169for_v_st005,5,2018,savio,V5,Visited,PTM,2,3,0
+209,C,169for_v_st005,5,2018,savio,V5,Visited,PTM,0,3,1
+209,D,169for_v_st005,5,2018,savio,V5,Visited,PTM,0,3,1
+243,E,219for_v_st123,5,2018,savio,V5,Visited,PTM,1,3,0
+243,D,219for_v_st123,5,2018,savio,V5,Visited,PTM,1,3,0
+243,C,219for_v_st123,5,2018,savio,V5,Visited,PTM,3,3,0
+243,B,219for_v_st123,5,2018,savio,V5,Visited,PTM,1,3,0
+243,A,219for_v_st123,5,2018,savio,V5,Visited,PTM,2,3,0
+222,A,169for_v_st004,5,2018,savio,V5,Visited,PTM,1,3,0
+222,B,169for_v_st004,5,2018,savio,V5,Visited,PTM,0,3,1
+222,C,169for_v_st004,5,2018,savio,V5,Visited,PTM,0,3,1
+222,D,169for_v_st004,5,2018,savio,V5,Visited,PTM,0,3,1
+222,E,169for_v_st004,5,2018,savio,V5,Visited,PTM,0,3,1
+143,B,910v1_v_st109,5,2018,ausfarm,V5,Visited,PTM,0,3,1
+143,A,910v1_v_st109,5,2018,ausfarm,V5,Visited,PTM,0,3,1
+143,C,910v1_v_st109,5,2018,ausfarm,V5,Visited,PTM,0,3,1
+143,D,910v1_v_st109,5,2018,ausfarm,V5,Visited,PTM,4,3,0
+143,E,910v1_v_st109,5,2018,ausfarm,V5,Visited,PTM,7,3,0
+12,A,1046,5,2017,Savio,V5,Visited,PTM,0,3,1
+12,B,1046,5,2017,Savio,V5,Visited,PTM,0,3,1
+12,C,1046,5,2017,Savio,V5,Visited,PTM,0,3,1
+12,D,1046,5,2017,Savio,V5,Visited,PTM,0,3,1
+13,A,2022,5,2017,Ausfarm,V5,Visited,PTM,0,3,1
+13,B,2022,5,2017,Ausfarm,V5,Visited,PTM,0,3,1
+13,C,2022,5,2017,Ausfarm,V5,Visited,PTM,0,3,1
+13,D,2022,5,2017,Ausfarm,V5,Visited,PTM,0,3,1
+23,A,2018,5,2017,Savio,V5,Visited,PTM,0,3,1
+23,B,2018,5,2017,Savio,V5,Visited,PTM,0,3,1
+23,C,2018,5,2017,Savio,V5,Visited,PTM,0,3,1
+23,D,2018,5,2017,Savio,V5,Visited,PTM,0,3,1
+23,E,2018,5,2017,Savio,V5,Visited,PTM,0,3,1
+26,A,55,5,2017,Savio,V5,Visited,PTM,0,3,1
+26,B,55,5,2017,Savio,V5,Visited,PTM,1,3,0
+26,C,55,5,2017,Savio,V5,Visited,PTM,0,3,1
+26,D,55,5,2017,Savio,V5,Visited,PTM,0,3,1
+26,E,55,5,2017,Savio,V5,Visited,PTM,1,3,0
+28,A,85,5,2017,Nicoletti,V5,Visited,PTM,0,3,1
+28,B,85,5,2017,Nicoletti,V5,Visited,PTM,1,3,0
+28,C,85,5,2017,Nicoletti,V5,Visited,PTM,0,3,1
+28,D,85,5,2017,Nicoletti,V5,Visited,PTM,0,3,1
+28,E,85,5,2017,Nicoletti,V5,Visited,PTM,0,3,1
+45,A,2028,5,2017,Ausfarm,V5,Visited,PTM,2,3,0
+45,B,2028,5,2017,Ausfarm,V5,Visited,PTM,0,3,1
+45,C,2028,5,2017,Ausfarm,V5,Visited,PTM,0,3,1
+45,D,2028,5,2017,Ausfarm,V5,Visited,PTM,0,3,1
+45,E,2028,5,2017,Ausfarm,V5,Visited,PTM,0,3,1
+27,A,910v1_v_st101,7,2018,ausfarm,V7,Visited,PTM,0,3,1
+27,B,910v1_v_st101,7,2018,ausfarm,V7,Visited,PTM,0,3,1
+27,C,910v1_v_st101,7,2018,ausfarm,V7,Visited,PTM,0,3,1
+27,D,910v1_v_st101,7,2018,ausfarm,V7,Visited,PTM,0,3,1
+27,E,910v1_v_st101,7,2018,ausfarm,V7,Visited,PTM,0,3,1
+158,A,169for_v_st106,7,2018,savio,V7,Visited,PTM,0,3,1
+158,B,169for_v_st106,7,2018,savio,V7,Visited,PTM,0,3,1
+158,C,169for_v_st106,7,2018,savio,V7,Visited,PTM,0,3,1
+158,D,169for_v_st106,7,2018,savio,V7,Visited,PTM,0,3,1
+158,E,169for_v_st106,7,2018,savio,V7,Visited,PTM,0,3,1
+197,A,169for_v_st205,7,2018,savio,V7,Visited,PTM,0,3,1
+197,B,169for_v_st205,7,2018,savio,V7,Visited,PTM,0,3,1
+197,C,169for_v_st205,7,2018,savio,V7,Visited,PTM,0,3,1
+214,A,219for_v_st224,7,2018,savio,V7,Visited,PTM,0,3,1
+214,B,219for_v_st224,7,2018,savio,V7,Visited,PTM,0,3,1
+214,C,219for_v_st224,7,2018,savio,V7,Visited,PTM,2,3,0
+214,D,219for_v_st224,7,2018,savio,V7,Visited,PTM,0,3,1
+218,A,910v1_v_st104,7,2018,ausfarm,V7,Visited,PTM,0,3,1
+218,B,910v1_v_st104,7,2018,ausfarm,V7,Visited,PTM,0,3,1
+218,C,910v1_v_st104,7,2018,ausfarm,V7,Visited,PTM,0,3,1
+218,D,910v1_v_st104,7,2018,ausfarm,V7,Visited,PTM,0,3,1
+218,E,910v1_v_st104,7,2018,ausfarm,V7,Visited,PTM,0,3,1
+283,E,910v1_v_st102,7,2018,ausfarm,V7,Visited,PTM,1,3,0
+283,D,910v1_v_st102,7,2018,ausfarm,V7,Visited,PTM,0,3,1
+283,C,910v1_v_st102,7,2018,ausfarm,V7,Visited,PTM,0,3,1
+283,B,910v1_v_st102,7,2018,ausfarm,V7,Visited,PTM,0,3,1
+283,A,910v1_v_st102,7,2018,ausfarm,V7,Visited,PTM,0,3,1
+69,a,910v1_v_st106,7,2018,ausfarm,V7,Visited,PTM,0,3,1
+69,b,910v1_v_st106,7,2018,ausfarm,V7,Visited,PTM,0,3,1
+69,c,910v1_v_st106,7,2018,ausfarm,V7,Visited,PTM,0,3,1
+69,d,910v1_v_st106,7,2018,ausfarm,V7,Visited,PTM,0,3,1
+94,a,219for_v_st124,7,2018,savio,V7,Visited,PTM,0,3,1
+94,b,219for_v_st124,7,2018,savio,V7,Visited,PTM,7,3,0
+94,c,219for_v_st124,7,2018,savio,V7,Visited,PTM,2,3,0
+94,d,219for_v_st124,7,2018,savio,V7,Visited,PTM,0,3,1
+94,e,219for_v_st124,7,2018,savio,V7,Visited,PTM,0,3,1
+184,A,199for_v_sta,8,2018,savio,V8,Visited,PTM,2,3,0
+184,B,199for_v_sta,8,2018,savio,V8,Visited,PTM,0,3,1
+184,C,199for_v_sta,8,2018,savio,V8,Visited,PTM,0,3,1
+184,D,199for_v_sta,8,2018,savio,V8,Visited,PTM,0,3,1
+292,E,910v1_v_st103,8,2018,ausfarm,V8,Visited,PTM,0,3,1
+292,D,910v1_v_st103,8,2018,ausfarm,V8,Visited,PTM,0,3,1
+292,C,910v1_v_st103,8,2018,ausfarm,V8,Visited,PTM,0,3,1
+292,B,910v1_v_st103,8,2018,ausfarm,V8,Visited,PTM,0,3,1
+292,A,910v1_v_st103,8,2018,ausfarm,V8,Visited,PTM,0,3,1
+138,A,219for_v_st222,8,2018,savio,V8,Visited,PTM,6,3,0
+138,B,219for_v_st222,8,2018,savio,V8,Visited,PTM,1,3,0
+138,C,219for_v_st222,8,2018,savio,V8,Visited,PTM,22,3,0
+138,D,219for_v_st222,8,2018,savio,V8,Visited,PTM,1,3,0
+138,E,219for_v_st222,8,2018,savio,V8,Visited,PTM,2,3,0
+39,a,209for_v_st209,8,2018,savio,V8,Visited,PTM,0,3,1
+39,b,209for_v_st209,8,2018,savio,V8,Visited,PTM,0,3,1
+39,c,209for_v_st209,8,2018,savio,V8,Visited,PTM,0,3,1
+39,d,209for_v_st209,8,2018,savio,V8,Visited,PTM,0,3,1
+173,A,169for_v_st105,9,2018,savio,V9,Visited,PTM,0,3,1
+173,B,169for_v_st105,9,2018,savio,V9,Visited,PTM,0,3,1
+173,C,169for_v_st105,9,2018,savio,V9,Visited,PTM,0,3,1
+173,D,169for_v_st105,9,2018,savio,V9,Visited,PTM,0,3,1
+121,a,209for_v_st214,9,2018,savio,V9,Visited,PTM,0,3,1
+121,b,209for_v_st214,9,2018,savio,V9,Visited,PTM,0,3,1
+121,c,209for_v_st214,9,2018,savio,V9,Visited,PTM,0,3,1
+121,d,209for_v_st214,9,2018,savio,V9,Visited,PTM,0,3,1
+121,e,209for_v_st214,9,2018,savio,V9,Visited,PTM,0,3,1
+6,A,199cos_c_st009,na,2018,rizzatto,C,Control,PTB,0,4,1
+6,B,199cos_c_st009,na,2018,rizzatto,C,Control,PTB,0,4,1
+6,C,199cos_c_st009,na,2018,rizzatto,C,Control,PTB,0,4,1
+6,D,199cos_c_st009,na,2018,rizzatto,C,Control,PTB,0,4,1
+6,E,199cos_c_st009,na,2018,rizzatto,C,Control,PTB,0,4,1
+211,A,139for_c_st020,na,2018,savio,C,Control,PTB,0,4,1
+211,B,139for_c_st020,na,2018,savio,C,Control,PTB,0,4,1
+211,C,139for_c_st020,na,2018,savio,C,Control,PTB,0,4,1
+288,E,139for_c_st009,na,2018,savio,C,Control,PTB,0,4,1
+288,D,139for_c_st009,na,2018,savio,C,Control,PTB,0,4,1
+288,C,139for_c_st009,na,2018,savio,C,Control,PTB,0,4,1
+288,B,139for_c_st009,na,2018,savio,C,Control,PTB,0,4,1
+288,A,139for_c_st009,na,2018,savio,C,Control,PTB,0,4,1
+97,a,179pit_c_st012,na,2018,fastfruit,C,Control,PTB,0,4,1
+97,b,179pit_c_st012,na,2018,fastfruit,C,Control,PTB,0,4,1
+97,c,179pit_c_st012,na,2018,fastfruit,C,Control,PTB,0,4,1
+97,d,179pit_c_st012,na,2018,fastfruit,C,Control,PTB,0,4,1
+97,e,179pit_c_st012,na,2018,fastfruit,C,Control,PTB,0,4,1
+110,a,159pom_c_st002a,NA,2018,ausfarm,C,Control,PTB,0,4,1
+110,b,159pom_c_st002a,NA,2018,ausfarm,C,Control,PTB,0,4,1
+110,c,159pom_c_st002a,NA,2018,ausfarm,C,Control,PTB,7,4,0
+110,d,159pom_c_st002a,NA,2018,ausfarm,C,Control,PTB,2,4,0
+110,e,159pom_c_st002a,NA,2018,ausfarm,C,Control,PTB,1,4,0
+14,A,2029,na,2017,Ausfarm,C,Control,PTB,0,4,1
+14,B,2029,na,2017,Ausfarm,C,Control,PTB,0,4,1
+14,C,2029,na,2017,Ausfarm,C,Control,PTB,0,4,1
+14,D,2029,na,2017,Ausfarm,C,Control,PTB,0,4,1
+14,E,2029,na,2017,Ausfarm,C,Control,PTB,0,4,1
+16,A,5001,na,2017,Ausfarm,C,Control,PTB,0,4,1
+16,B,5001,na,2017,Ausfarm,C,Control,PTB,0,4,1
+16,C,5001,na,2017,Ausfarm,C,Control,PTB,0,4,1
+16,D,5001,na,2017,Ausfarm,C,Control,PTB,0,4,1
+16,E,5001,na,2017,Ausfarm,C,Control,PTB,0,4,1
+17,A,5008,na,2017,Ausfarm,C,Control,PTB,0,4,1
+17,B,5008,na,2017,Ausfarm,C,Control,PTB,0,4,1
+17,C,5008,na,2017,Ausfarm,C,Control,PTB,0,4,1
+17,D,5008,na,2017,Ausfarm,C,Control,PTB,0,4,1
+17,E,5008,na,2017,Ausfarm,C,Control,PTB,0,4,1
+1,A,5007,na,2017,Ausfarm,C,Control,PTB,0,4,1
+1,B,5007,na,2017,Ausfarm,C,Control,PTB,0,4,1
+1,C,5007,na,2017,Ausfarm,C,Control,PTB,0,4,1
+1,D,5007,na,2017,Ausfarm,C,Control,PTB,0,4,1
+21,A,5011,na,2017,Ausfarm,C,Control,PTB,0,4,1
+21,B,5011,na,2017,Ausfarm,C,Control,PTB,0,4,1
+21,C,5011,na,2017,Ausfarm,C,Control,PTB,0,4,1
+27,A,50,na,2017,Savio,C,Control,PTB,0,4,1
+27,B,50,na,2017,Savio,C,Control,PTB,0,4,1
+27,C,50,na,2017,Savio,C,Control,PTB,0,4,1
+27,D,50,na,2017,Savio,C,Control,PTB,0,4,1
+27,E,50,na,2017,Savio,C,Control,PTB,0,4,1
+2,A,5002,na,2017,Ausfarm,C,Control,PTB,0,4,1
+2,B,5002,na,2017,Ausfarm,C,Control,PTB,0,4,1
+2,C,5002,na,2017,Ausfarm,C,Control,PTB,0,4,1
+2,D,5002,na,2017,Ausfarm,C,Control,PTB,0,4,1
+2,E,5002,na,2017,Ausfarm,C,Control,PTB,0,4,1
+35,A,5020,na,2017,Ausfarm,C,Control,PTB,0,4,1
+35,B,5020,na,2017,Ausfarm,C,Control,PTB,0,4,1
+35,C,5020,na,2017,Ausfarm,C,Control,PTB,0,4,1
+35,D,5020,na,2017,Ausfarm,C,Control,PTB,0,4,1
+3,A,101,na,2017,Nicoletti,C,Control,PTB,0,4,1
+3,B,101,na,2017,Nicoletti,C,Control,PTB,0,4,1
+3,C,101,na,2017,Nicoletti,C,Control,PTB,0,4,1
+3,D,101,na,2017,Nicoletti,C,Control,PTB,0,4,1
+5,A,90,na,2017,Nicoletti,C,Control,PTB,0,4,1
+5,B,90,na,2017,Nicoletti,C,Control,PTB,0,4,1
+5,C,90,na,2017,Nicoletti,C,Control,PTB,0,4,1
+5,D,90,na,2017,Nicoletti,C,Control,PTB,0,4,1
+5,E,90,na,2017,Nicoletti,C,Control,PTB,0,4,1
+6,A,3001,na,2017,Ausfarm,C,Control,PTB,0,4,1
+6,B,3001,na,2017,Ausfarm,C,Control,PTB,0,4,1
+6,C,3001,na,2017,Ausfarm,C,Control,PTB,0,4,1
+6,D,3001,na,2017,Ausfarm,C,Control,PTB,0,4,1
+6,E,3001,na,2017,Ausfarm,C,Control,PTB,0,4,1
+8,A,2017,na,2017,Savio,C,Control,PTB,0,4,1
+8,B,2017,na,2017,Savio,C,Control,PTB,0,4,1
+8,C,2017,na,2017,Savio,C,Control,PTB,0,4,1
+8,D,2017,na,2017,Savio,C,Control,PTB,0,4,1
+8,E,2017,na,2017,Savio,C,Control,PTB,0,4,1
+8,A,1710for_hp_st003,NA,2018,savio,HP,Hand pollinated,PTB,30,4,0
+8,B,1710for_hp_st003,NA,2018,savio,HP,Hand pollinated,PTB,16,4,0
+8,C,1710for_hp_st003,NA,2018,savio,HP,Hand pollinated,PTB,31,4,0
+8,D,1710for_hp_st003,NA,2018,savio,HP,Hand pollinated,PTB,46,4,0
+8,E,1710for_hp_st003,NA,2018,savio,HP,Hand pollinated,PTB,29,4,0
+18,A,219pit_hp_st305,NA,2018,fastfruit,HP,Hand pollinated,PTB,0,4,1
+18,B,219pit_hp_st305,NA,2018,fastfruit,HP,Hand pollinated,PTB,0,4,1
+18,C,219pit_hp_st305,NA,2018,fastfruit,HP,Hand pollinated,PTB,0,4,1
+18,D,219pit_hp_st305,NA,2018,fastfruit,HP,Hand pollinated,PTB,0,4,1
+18,E,219pit_hp_st305,NA,2018,fastfruit,HP,Hand pollinated,PTB,0,4,1
+18,F,219pit_hp_st305,NA,2018,fastfruit,HP,Hand pollinated,PTB,0,4,1
+169,A,1710for_hp_st008,na,2018,savio,HP,Hand pollinated,PTB,43,4,0
+169,B,1710for_hp_st008,na,2018,savio,HP,Hand pollinated,PTB,38,4,0
+169,C,1710for_hp_st008,na,2018,savio,HP,Hand pollinated,PTB,28,4,0
+169,D,1710for_hp_st008,na,2018,savio,HP,Hand pollinated,PTB,72,4,0
+169,E,1710for_hp_st008,na,2018,savio,HP,Hand pollinated,PTB,95,4,0
+169,F,1710for_hp_st008,na,2018,savio,HP,Hand pollinated,PTB,47,4,0
+182,A,1710acr_hp_st103,na,2018,ausfarm,HP,Hand pollinated,PTB,21,4,0
+182,B,1710acr_hp_st103,na,2018,ausfarm,HP,Hand pollinated,PTB,49,4,0
+182,C,1710acr_hp_st103,na,2018,ausfarm,HP,Hand pollinated,PTB,5,4,0
+182,D,1710acr_hp_st103,na,2018,ausfarm,HP,Hand pollinated,PTB,26,4,0
+182,E,1710acr_hp_st103,na,2018,ausfarm,HP,Hand pollinated,PTB,7,4,0
+46,a,1710v1_hp_st108,na,2018,ausfarm,HP,Hand pollinated,PTB,16,4,0
+46,b,1710v1_hp_st108,na,2018,ausfarm,HP,Hand pollinated,PTB,24,4,0
+46,c,1710v1_hp_st108,na,2018,ausfarm,HP,Hand pollinated,PTB,15,4,0
+46,d,1710v1_hp_st108,na,2018,ausfarm,HP,Hand pollinated,PTB,27,4,0
+46,e,1710v1_hp_st108,na,2018,ausfarm,HP,Hand pollinated,PTB,51,4,0
+11,A,4014,na,2017,Savio,HP,Hand pollinated,PTB,0,4,1
+11,B,4014,na,2017,Savio,HP,Hand pollinated,PTB,0,4,1
+11,C,4014,na,2017,Savio,HP,Hand pollinated,PTB,0,4,1
+11,D,4014,na,2017,Savio,HP,Hand pollinated,PTB,0,4,1
+18,A,4015,na,2017,Savio,HP,Hand pollinated,PTB,20,4,0
+18,B,4015,na,2017,Savio,HP,Hand pollinated,PTB,11,4,0
+18,C,4015,na,2017,Savio,HP,Hand pollinated,PTB,13,4,0
+18,D,4015,na,2017,Savio,HP,Hand pollinated,PTB,30,4,0
+19,A,4017,na,2017,Savio,HP,Hand pollinated,PTB,2,4,0
+19,B,4017,na,2017,Savio,HP,Hand pollinated,PTB,0,4,1
+19,C,4017,na,2017,Savio,HP,Hand pollinated,PTB,0,4,1
+19,D,4017,na,2017,Savio,HP,Hand pollinated,PTB,3,4,0
+19,E,4017,na,2017,Savio,HP,Hand pollinated,PTB,0,4,1
+30,A,4013,na,2017,Savio,HP,Hand pollinated,PTB,4,4,0
+30,B,4013,na,2017,Savio,HP,Hand pollinated,PTB,12,4,0
+30,C,4013,na,2017,Savio,HP,Hand pollinated,PTB,1,4,0
+30,D,4013,na,2017,Savio,HP,Hand pollinated,PTB,6,4,0
+30,E,4013,na,2017,Savio,HP,Hand pollinated,PTB,0,4,1
+31,A,4004,na,2017,Savio,HP,Hand pollinated,PTB,6,4,0
+31,B,4004,na,2017,Savio,HP,Hand pollinated,PTB,16,4,0
+31,C,4004,na,2017,Savio,HP,Hand pollinated,PTB,7,4,0
+31,D,4004,na,2017,Savio,HP,Hand pollinated,PTB,2,4,0
+9,A,4018,na,2017,Savio,HP,Hand pollinated,PTB,0,4,1
+9,B,4018,na,2017,Savio,HP,Hand pollinated,PTB,0,4,1
+9,C,4018,na,2017,Savio,HP,Hand pollinated,PTB,0,4,1
+9,D,4018,na,2017,Savio,HP,Hand pollinated,PTB,1,4,0
+9,E,4018,na,2017,Savio,HP,Hand pollinated,PTB,1,4,0
+1,A,1610for_o_st019,na,2018,savio,O,Open,PTB,0,4,1
+1,B,1610for_o_st019,na,2018,savio,O,Open,PTB,0,4,1
+4,A,1610for_o_st012,NA,2018,savio,O,Open,PTB,0,4,1
+4,B,1610for_o_st012,NA,2018,savio,O,Open,PTB,0,4,1
+4,C,1610for_o_st012,NA,2018,savio,O,Open,PTB,0,4,1
+4,D,1610for_o_st012,NA,2018,savio,O,Open,PTB,0,4,1
+4,E,1610for_o_st012,NA,2018,savio,O,Open,PTB,0,4,1
+5,A,210v1_o_st015,na,2018,ausfarm,O,Open,PTB,0,4,1
+5,B,210v1_o_st015,na,2018,ausfarm,O,Open,PTB,0,4,1
+5,C,210v1_o_st015,na,2018,ausfarm,O,Open,PTB,2,4,0
+5,D,210v1_o_st015,na,2018,ausfarm,O,Open,PTB,5,4,0
+5,E,210v1_o_st015,na,2018,ausfarm,O,Open,PTB,0,4,1
+9,A,210bir_o_st017,na,2018,savio,O,Open,PTB,1,4,0
+9,B,210bir_o_st017,na,2018,savio,O,Open,PTB,0,4,1
+9,C,210bir_o_st017,na,2018,savio,O,Open,PTB,0,4,1
+9,D,210bir_o_st017,na,2018,savio,O,Open,PTB,0,4,1
+9,E,210bir_o_st017,na,2018,savio,O,Open,PTB,0,4,1
+12,A,1610acr_o_st010,na,2018,ausfarm,O,Open,PTB,1,4,0
+12,B,1610acr_o_st010,na,2018,ausfarm,O,Open,PTB,0,4,1
+12,C,1610acr_o_st010,na,2018,ausfarm,O,Open,PTB,0,4,1
+12,D,1610acr_o_st010,na,2018,ausfarm,O,Open,PTB,0,4,1
+12,E,1610acr_o_st010,na,2018,ausfarm,O,Open,PTB,0,4,1
+12,F,1610acr_o_st010,na,2018,ausfarm,O,Open,PTB,0,4,1
+21,A,210v1_o_st014,na,2018,ausfarm,O,Open,PTB,2,4,0
+21,B,210v1_o_st014,na,2018,ausfarm,O,Open,PTB,5,4,0
+21,C,210v1_o_st014,na,2018,ausfarm,O,Open,PTB,1,4,0
+21,D,210v1_o_st014,na,2018,ausfarm,O,Open,PTB,3,4,0
+22,A,1610acr_o_st004,NA,2018,ausfarm,O,Open,PTB,0,4,1
+22,B,1610acr_o_st004,NA,2018,ausfarm,O,Open,PTB,1,4,0
+22,C,1610acr_o_st004,NA,2018,ausfarm,O,Open,PTB,0,4,1
+22,D,1610acr_o_st004,NA,2018,ausfarm,O,Open,PTB,0,4,1
+22,E,1610acr_o_st004,NA,2018,ausfarm,O,Open,PTB,0,4,1
+22,F,1610acr_o_st004,NA,2018,ausfarm,O,Open,PTB,0,4,1
+26,A,1610acr_o_st012,na,2018,ausfarm,O,Open,PTB,0,4,1
+26,B,1610acr_o_st012,na,2018,ausfarm,O,Open,PTB,0,4,1
+26,C,1610acr_o_st012,na,2018,ausfarm,O,Open,PTB,0,4,1
+26,D,1610acr_o_st012,na,2018,ausfarm,O,Open,PTB,0,4,1
+26,E,1610acr_o_st012,na,2018,ausfarm,O,Open,PTB,0,4,1
+30,A,210v1_o_st017,NA,2018,ausfarm,O,Open,PTB,0,4,1
+30,B,210v1_o_st017,NA,2018,ausfarm,O,Open,PTB,1,4,0
+30,C,210v1_o_st017,NA,2018,ausfarm,O,Open,PTB,0,4,1
+30,D,210v1_o_st017,NA,2018,ausfarm,O,Open,PTB,0,4,1
+30,E,210v1_o_st017,NA,2018,ausfarm,O,Open,PTB,0,4,1
+31,A,210bir_o_st011,na,2018,savio,O,Open,PTB,0,4,1
+31,B,210bir_o_st011,na,2018,savio,O,Open,PTB,1,4,0
+31,C,210bir_o_st011,na,2018,savio,O,Open,PTB,0,4,1
+31,D,210bir_o_st011,na,2018,savio,O,Open,PTB,1,4,0
+31,E,210bir_o_st011,na,2018,savio,O,Open,PTB,0,4,1
+34,A,1610acr_o_st006,na,2018,ausfarm,O,Open,PTB,2,4,0
+34,B,1610acr_o_st006,na,2018,ausfarm,O,Open,PTB,3,4,0
+34,c,1610acr_o_st006,na,2018,ausfarm,O,Open,PTB,0,4,1
+34,d,1610acr_o_st006,na,2018,ausfarm,O,Open,PTB,0,4,1
+34,e,1610acr_o_st006,na,2018,ausfarm,O,Open,PTB,0,4,1
+35,a,210v1_o_st013,na,2018,ausfarm,O,Open,PTB,1,4,0
+35,b,210v1_o_st013,na,2018,ausfarm,O,Open,PTB,1,4,0
+35,c,210v1_o_st013,na,2018,ausfarm,O,Open,PTB,4,4,0
+35,d,210v1_o_st013,na,2018,ausfarm,O,Open,PTB,1,4,0
+10,A,219for_v_st119,1,2018,savio,V1,Visited,PTB,0,4,1
+10,B,219for_v_st119,1,2018,savio,V1,Visited,PTB,0,4,1
+10,C,219for_v_st119,1,2018,savio,V1,Visited,PTB,0,4,1
+10,D,219for_v_st119,1,2018,savio,V1,Visited,PTB,0,4,1
+10,E,219for_v_st119,1,2018,savio,V1,Visited,PTB,0,4,1
+152,A,169for_v_st207,1,2018,savio,V1,Visited,PTB,0,4,1
+152,B,169for_v_st207,1,2018,savio,V1,Visited,PTB,0,4,1
+152,C,169for_v_st207,1,2018,savio,V1,Visited,PTB,0,4,1
+152,D,169for_v_st207,1,2018,savio,V1,Visited,PTB,0,4,1
+152,E,169for_v_st207,1,2018,savio,V1,Visited,PTB,0,4,1
+201,A,219for_v_st218,1,2018,savio,V1,Visited,PTB,0,4,1
+201,B,219for_v_st218,1,2018,savio,V1,Visited,PTB,0,4,1
+201,C,219for_v_st218,1,2018,savio,V1,Visited,PTB,0,4,1
+201,D,219for_v_st218,1,2018,savio,V1,Visited,PTB,0,4,1
+201,E,219for_v_st218,1,2018,savio,V1,Visited,PTB,0,4,1
+217,A,209cos_v_st204,1,2018,rizzatto,V1,Visited,PTB,0,4,1
+217,B,209cos_v_st204,1,2018,rizzatto,V1,Visited,PTB,0,4,1
+217,C,209cos_v_st204,1,2018,rizzatto,V1,Visited,PTB,0,4,1
+217,D,209cos_v_st204,1,2018,rizzatto,V1,Visited,PTB,0,4,1
+275,E,910v1_v_st004,1,2018,ausfarm,V1,Visited,PTB,0,4,1
+275,D,910v1_v_st004,1,2018,ausfarm,V1,Visited,PTB,0,4,1
+275,C,910v1_v_st004,1,2018,ausfarm,V1,Visited,PTB,0,4,1
+275,B,910v1_v_st004,1,2018,ausfarm,V1,Visited,PTB,0,4,1
+275,A,910v1_v_st004,1,2018,ausfarm,V1,Visited,PTB,0,4,1
+245,D,169for_v_st208,1,2018,savio,V1,Visited,PTB,0,4,1
+245,C,169for_v_st208,1,2018,savio,V1,Visited,PTB,0,4,1
+245,B,169for_v_st208,1,2018,savio,V1,Visited,PTB,0,4,1
+245,A,169for_v_st208,1,2018,savio,V1,Visited,PTB,0,4,1
+219,A,219for_v_st116,1,2018,savio,V1,Visited,PTB,0,4,1
+219,B,219for_v_st116,1,2018,savio,V1,Visited,PTB,0,4,1
+219,C,219for_v_st116,1,2018,savio,V1,Visited,PTB,0,4,1
+219,D,219for_v_st116,1,2018,savio,V1,Visited,PTB,0,4,1
+219,E,219for_v_st116,1,2018,savio,V1,Visited,PTB,1,4,0
+104,a,219for_v_st120,1,2018,savio,V1,Visited,PTB,0,4,1
+104,b,219for_v_st120,1,2018,savio,V1,Visited,PTB,0,4,1
+104,c,219for_v_st120,1,2018,savio,V1,Visited,PTB,2,4,0
+104,d,219for_v_st120,1,2018,savio,V1,Visited,PTB,0,4,1
+104,e,219for_v_st120,1,2018,savio,V1,Visited,PTB,0,4,1
+29,A,39,1,2017,Savio,V1,Visited,PTB,0,4,1
+29,B,39,1,2017,Savio,V1,Visited,PTB,0,4,1
+29,C,39,1,2017,Savio,V1,Visited,PTB,0,4,1
+37,A,2015,1,2017,Savio,V1,Visited,PTB,0,4,1
+37,B,2015,1,2017,Savio,V1,Visited,PTB,0,4,1
+37,C,2015,1,2017,Savio,V1,Visited,PTB,0,4,1
+37,D,2015,1,2017,Savio,V1,Visited,PTB,0,4,1
+39,A,3000,1,2017,Ausfarm,V1,Visited,PTB,0,4,1
+39,B,3000,1,2017,Ausfarm,V1,Visited,PTB,0,4,1
+39,C,3000,1,2017,Ausfarm,V1,Visited,PTB,0,4,1
+39,D,3000,1,2017,Ausfarm,V1,Visited,PTB,0,4,1
+39,E,3000,1,2017,Ausfarm,V1,Visited,PTB,0,4,1
+40,A,33,1,2017,Savio,V1,Visited,PTB,0,4,1
+40,B,33,1,2017,Savio,V1,Visited,PTB,0,4,1
+40,C,33,1,2017,Savio,V1,Visited,PTB,0,4,1
+40,D,33,1,2017,Savio,V1,Visited,PTB,0,4,1
+40,E,33,1,2017,Savio,V1,Visited,PTB,0,4,1
+42,A,2011,1,2017,Savio,V1,Visited,PTB,0,4,1
+42,B,2011,1,2017,Savio,V1,Visited,PTB,0,4,1
+42,C,2011,1,2017,Savio,V1,Visited,PTB,0,4,1
+42,D,2011,1,2017,Savio,V1,Visited,PTB,0,4,1
+42,E,2011,1,2017,Savio,V1,Visited,PTB,0,4,1
+4,A,2014,1,2017,Savio,V1,Visited,PTB,0,4,1
+4,B,2014,1,2017,Savio,V1,Visited,PTB,0,4,1
+4,C,2014,1,2017,Savio,V1,Visited,PTB,0,4,1
+4,D,2014,1,2017,Savio,V1,Visited,PTB,0,4,1
+4,E,2014,1,2017,Savio,V1,Visited,PTB,0,4,1
+150,A,219for_v_st221,10,2018,savio,V10,Visited,PTB,0,4,1
+150,B,219for_v_st221,10,2018,savio,V10,Visited,PTB,0,4,1
+150,C,219for_v_st221,10,2018,savio,V10,Visited,PTB,0,4,1
+246,C,219for_v_st223,10,2018,savio,V10,Visited,PTB,1,4,0
+246,B,219for_v_st223,10,2018,savio,V10,Visited,PTB,0,4,1
+246,A,219for_v_st223,10,2018,savio,V10,Visited,PTB,0,4,1
+236,A,910v1_v_st001,10,2018,ausfarm,V10,Visited,PTB,0,4,1
+236,B,910v1_v_st001,10,2018,ausfarm,V10,Visited,PTB,0,4,1
+236,C,910v1_v_st001,10,2018,ausfarm,V10,Visited,PTB,0,4,1
+236,D,910v1_v_st001,10,2018,ausfarm,V10,Visited,PTB,0,4,1
+236,E,910v1_v_st001,10,2018,ausfarm,V10,Visited,PTB,0,4,1
+236,F,910v1_v_st001,10,2018,ausfarm,V10,Visited,PTB,0,4,1
+67,a,219for_v_st121,10,2018,savio,V10,Visited,PTB,0,4,1
+67,b,219for_v_st121,10,2018,savio,V10,Visited,PTB,0,4,1
+148,A,169for_v_st104,11,2018,savio,V11,Visited,PTB,0,4,1
+148,B,169for_v_st104,11,2018,savio,V11,Visited,PTB,0,4,1
+148,C,169for_v_st104,11,2018,savio,V11,Visited,PTB,0,4,1
+148,D,169for_v_st104,11,2018,savio,V11,Visited,PTB,0,4,1
+207,A,199for_v_std,11,2018,savio,V11,Visited,PTB,0,4,1
+207,B,199for_v_std,11,2018,savio,V11,Visited,PTB,0,4,1
+207,C,199for_v_std,11,2018,savio,V11,Visited,PTB,0,4,1
+207,D,199for_v_std,11,2018,savio,V11,Visited,PTB,0,4,1
+207,E,199for_v_std,11,2018,savio,V11,Visited,PTB,0,4,1
+135,C,199for_v_stc,11,2018,savio,V11,Visited,PTB,0,4,1
+135,D,199for_v_stc,11,2018,savio,V11,Visited,PTB,0,4,1
+135,E,199for_v_stc,11,2018,savio,V11,Visited,PTB,0,4,1
+135,a,199for_v_stc,11,2018,savio,V11,Visited,PTB,0,4,1
+135,b,199for_v_stc,11,2018,savio,V11,Visited,PTB,0,4,1
+165,A,219for_v_st126,12,2018,savio,V12,Visited,PTB,5,4,0
+165,B,219for_v_st126,12,2018,savio,V12,Visited,PTB,1,4,0
+165,C,219for_v_st126,12,2018,savio,V12,Visited,PTB,0,4,1
+165,D,219for_v_st126,12,2018,savio,V12,Visited,PTB,0,4,1
+165,E,219for_v_st126,12,2018,savio,V12,Visited,PTB,0,4,1
+125,a,209for_v_st213,12,2018,savio,V12,Visited,PTB,0,4,1
+125,b,209for_v_st213,12,2018,savio,V12,Visited,PTB,0,4,1
+125,c,209for_v_st213,12,2018,savio,V12,Visited,PTB,0,4,1
+125,d,209for_v_st213,12,2018,savio,V12,Visited,PTB,0,4,1
+176,A,910v1_v_st008,3,2018,ausfarm,V3,Visited,PTB,0,4,1
+176,B,910v1_v_st008,3,2018,ausfarm,V3,Visited,PTB,0,4,1
+176,C,910v1_v_st008,3,2018,ausfarm,V3,Visited,PTB,0,4,1
+176,D,910v1_v_st008,3,2018,ausfarm,V3,Visited,PTB,0,4,1
+176,E,910v1_v_st008,3,2018,ausfarm,V3,Visited,PTB,1,4,0
+277,E,209for_v_st211,3,2018,savio,V3,Visited,PTB,0,4,1
+277,D,209for_v_st211,3,2018,savio,V3,Visited,PTB,0,4,1
+277,C,209for_v_st211,3,2018,savio,V3,Visited,PTB,0,4,1
+277,B,209for_v_st211,3,2018,savio,V3,Visited,PTB,0,4,1
+277,A,209for_v_st211,3,2018,savio,V3,Visited,PTB,0,4,1
+256,E,910v1_v_st003,3,2018,ausfarm,V3,Visited,PTB,0,4,1
+256,D,910v1_v_st003,3,2018,ausfarm,V3,Visited,PTB,0,4,1
+256,C,910v1_v_st003,3,2018,ausfarm,V3,Visited,PTB,0,4,1
+256,B,910v1_v_st003,3,2018,ausfarm,V3,Visited,PTB,0,4,1
+256,A,910v1_v_st003,3,2018,ausfarm,V3,Visited,PTB,0,4,1
+242,E,199for_v_stb,3,2018,savio,V3,Visited,PTB,0,4,1
+242,A,199for_v_stb,3,2018,savio,V3,Visited,PTB,0,4,1
+242,B,199for_v_stb,3,2018,savio,V3,Visited,PTB,0,4,1
+242,D,199for_v_stb,3,2018,savio,V3,Visited,PTB,0,4,1
+242,C,199for_v_stb,3,2018,savio,V3,Visited,PTB,0,4,1
+80,a,169for_v_st107,3,2018,savio,V3,Visited,PTB,0,4,1
+80,b,169for_v_st107,3,2018,savio,V3,Visited,PTB,0,4,1
+80,c,169for_v_st107,3,2018,savio,V3,Visited,PTB,0,4,1
+80,d,169for_v_st107,3,2018,savio,V3,Visited,PTB,0,4,1
+80,e,169for_v_st107,3,2018,savio,V3,Visited,PTB,0,4,1
+84,a,910v1_v_st002,3,2018,ausfarm,V3,Visited,PTB,0,4,1
+84,b,910v1_v_st002,3,2018,ausfarm,V3,Visited,PTB,0,4,1
+84,c,910v1_v_st002,3,2018,ausfarm,V3,Visited,PTB,1,4,0
+84,d,910v1_v_st002,3,2018,ausfarm,V3,Visited,PTB,0,4,1
+84,e,910v1_v_st002,3,2018,ausfarm,V3,Visited,PTB,0,4,1
+89,a,219for_v_st113,3,2018,savio,V3,Visited,PTB,0,4,1
+89,b,219for_v_st113,3,2018,savio,V3,Visited,PTB,0,4,1
+89,c,219for_v_st113,3,2018,savio,V3,Visited,PTB,1,4,0
+89,d,219for_v_st113,3,2018,savio,V3,Visited,PTB,0,4,1
+89,e,219for_v_st113,3,2018,savio,V3,Visited,PTB,1,4,0
+106,a,209for_v_st110,3,2018,savio,V3,Visited,PTB,0,4,1
+106,b,209for_v_st110,3,2018,savio,V3,Visited,PTB,0,4,1
+106,c,209for_v_st110,3,2018,savio,V3,Visited,PTB,0,4,1
+106,d,209for_v_st110,3,2018,savio,V3,Visited,PTB,0,4,1
+114,a,219for_v_st219,3,2018,savio,V3,Visited,PTB,0,4,1
+114,b,219for_v_st219,3,2018,savio,V3,Visited,PTB,0,4,1
+114,c,219for_v_st219,3,2018,savio,V3,Visited,PTB,0,4,1
+114,d,219for_v_st219,3,2018,savio,V3,Visited,PTB,0,4,1
+24,A,106,3,2017,Nicoletti,V3,Visited,PTB,0,4,1
+24,B,106,3,2017,Nicoletti,V3,Visited,PTB,0,4,1
+24,C,106,3,2017,Nicoletti,V3,Visited,PTB,0,4,1
+24,D,106,3,2017,Nicoletti,V3,Visited,PTB,0,4,1
+32,A,96,3,2017,Nicoletti,V3,Visited,PTB,0,4,1
+32,B,96,3,2017,Nicoletti,V3,Visited,PTB,0,4,1
+32,C,96,3,2017,Nicoletti,V3,Visited,PTB,0,4,1
+32,D,96,3,2017,Nicoletti,V3,Visited,PTB,0,4,1
+32,E,96,3,2017,Nicoletti,V3,Visited,PTB,0,4,1
+41,A,62,3,2017,Savio,V3,Visited,PTB,0,4,1
+41,B,62,3,2017,Savio,V3,Visited,PTB,0,4,1
+41,C,62,3,2017,Savio,V3,Visited,PTB,0,4,1
+41,D,62,3,2017,Savio,V3,Visited,PTB,0,4,1
+41,E,62,3,2017,Savio,V3,Visited,PTB,0,4,1
+41,F,62,3,2017,Savio,V3,Visited,PTB,0,4,1
+43,A,3027,3,2017,Nicoletti,V3,Visited,PTB,0,4,1
+43,B,3027,3,2017,Nicoletti,V3,Visited,PTB,0,4,1
+43,C,3027,3,2017,Nicoletti,V3,Visited,PTB,0,4,1
+43,D,3027,3,2017,Nicoletti,V3,Visited,PTB,0,4,1
+43,E,3027,3,2017,Nicoletti,V3,Visited,PTB,0,4,1
+44,A,51,3,2017,Savio,V3,Visited,PTB,0,4,1
+44,B,51,3,2017,Savio,V3,Visited,PTB,1,4,0
+44,C,51,3,2017,Savio,V3,Visited,PTB,0,4,1
+44,D,51,3,2017,Savio,V3,Visited,PTB,0,4,1
+46,A,44,3,2017,Savio,V3,Visited,PTB,0,4,1
+46,B,44,3,2017,Savio,V3,Visited,PTB,0,4,1
+46,C,44,3,2017,Savio,V3,Visited,PTB,0,4,1
+46,D,44,3,2017,Savio,V3,Visited,PTB,0,4,1
+46,E,44,3,2017,Savio,V3,Visited,PTB,0,4,1
+11,A,219for_v_st217,5,2018,savio,V5,Visited,PTB,0,4,1
+11,B,219for_v_st217,5,2018,savio,V5,Visited,PTB,0,4,1
+11,C,219for_v_st217,5,2018,savio,V5,Visited,PTB,0,4,1
+11,D,219for_v_st217,5,2018,savio,V5,Visited,PTB,0,4,1
+157,A,209for_v_st212,5,2018,savio,V5,Visited,PTB,0,4,1
+157,B,209for_v_st212,5,2018,savio,V5,Visited,PTB,0,4,1
+157,C,209for_v_st212,5,2018,savio,V5,Visited,PTB,0,4,1
+157,D,209for_v_st212,5,2018,savio,V5,Visited,PTB,0,4,1
+200,A,169for_v_st103,5,2018,savio,V5,Visited,PTB,0,4,1
+200,B,169for_v_st103,5,2018,savio,V5,Visited,PTB,0,4,1
+200,C,169for_v_st103,5,2018,savio,V5,Visited,PTB,0,4,1
+200,D,169for_v_st103,5,2018,savio,V5,Visited,PTB,0,4,1
+200,E,169for_v_st103,5,2018,savio,V5,Visited,PTB,0,4,1
+200,F,169for_v_st103,5,2018,savio,V5,Visited,PTB,0,4,1
+209,A,169for_v_st005,5,2018,savio,V5,Visited,PTB,0,4,1
+209,B,169for_v_st005,5,2018,savio,V5,Visited,PTB,0,4,1
+209,C,169for_v_st005,5,2018,savio,V5,Visited,PTB,0,4,1
+209,D,169for_v_st005,5,2018,savio,V5,Visited,PTB,0,4,1
+243,E,219for_v_st123,5,2018,savio,V5,Visited,PTB,0,4,1
+243,D,219for_v_st123,5,2018,savio,V5,Visited,PTB,0,4,1
+243,C,219for_v_st123,5,2018,savio,V5,Visited,PTB,0,4,1
+243,B,219for_v_st123,5,2018,savio,V5,Visited,PTB,0,4,1
+243,A,219for_v_st123,5,2018,savio,V5,Visited,PTB,0,4,1
+222,A,169for_v_st004,5,2018,savio,V5,Visited,PTB,0,4,1
+222,B,169for_v_st004,5,2018,savio,V5,Visited,PTB,0,4,1
+222,C,169for_v_st004,5,2018,savio,V5,Visited,PTB,0,4,1
+222,D,169for_v_st004,5,2018,savio,V5,Visited,PTB,0,4,1
+222,E,169for_v_st004,5,2018,savio,V5,Visited,PTB,0,4,1
+143,B,910v1_v_st109,5,2018,ausfarm,V5,Visited,PTB,0,4,1
+143,A,910v1_v_st109,5,2018,ausfarm,V5,Visited,PTB,0,4,1
+143,C,910v1_v_st109,5,2018,ausfarm,V5,Visited,PTB,0,4,1
+143,D,910v1_v_st109,5,2018,ausfarm,V5,Visited,PTB,1,4,0
+143,E,910v1_v_st109,5,2018,ausfarm,V5,Visited,PTB,0,4,1
+12,A,1046,5,2017,Savio,V5,Visited,PTB,0,4,1
+12,B,1046,5,2017,Savio,V5,Visited,PTB,0,4,1
+12,C,1046,5,2017,Savio,V5,Visited,PTB,0,4,1
+12,D,1046,5,2017,Savio,V5,Visited,PTB,0,4,1
+13,A,2022,5,2017,Ausfarm,V5,Visited,PTB,0,4,1
+13,B,2022,5,2017,Ausfarm,V5,Visited,PTB,0,4,1
+13,C,2022,5,2017,Ausfarm,V5,Visited,PTB,0,4,1
+13,D,2022,5,2017,Ausfarm,V5,Visited,PTB,0,4,1
+23,A,2018,5,2017,Savio,V5,Visited,PTB,0,4,1
+23,B,2018,5,2017,Savio,V5,Visited,PTB,0,4,1
+23,C,2018,5,2017,Savio,V5,Visited,PTB,0,4,1
+23,D,2018,5,2017,Savio,V5,Visited,PTB,0,4,1
+23,E,2018,5,2017,Savio,V5,Visited,PTB,0,4,1
+26,A,55,5,2017,Savio,V5,Visited,PTB,0,4,1
+26,B,55,5,2017,Savio,V5,Visited,PTB,0,4,1
+26,C,55,5,2017,Savio,V5,Visited,PTB,0,4,1
+26,D,55,5,2017,Savio,V5,Visited,PTB,0,4,1
+26,E,55,5,2017,Savio,V5,Visited,PTB,1,4,0
+28,A,85,5,2017,Nicoletti,V5,Visited,PTB,0,4,1
+28,B,85,5,2017,Nicoletti,V5,Visited,PTB,0,4,1
+28,C,85,5,2017,Nicoletti,V5,Visited,PTB,0,4,1
+28,D,85,5,2017,Nicoletti,V5,Visited,PTB,0,4,1
+28,E,85,5,2017,Nicoletti,V5,Visited,PTB,0,4,1
+45,A,2028,5,2017,Ausfarm,V5,Visited,PTB,0,4,1
+45,B,2028,5,2017,Ausfarm,V5,Visited,PTB,0,4,1
+45,C,2028,5,2017,Ausfarm,V5,Visited,PTB,0,4,1
+45,D,2028,5,2017,Ausfarm,V5,Visited,PTB,0,4,1
+45,E,2028,5,2017,Ausfarm,V5,Visited,PTB,0,4,1
+27,A,910v1_v_st101,7,2018,ausfarm,V7,Visited,PTB,0,4,1
+27,B,910v1_v_st101,7,2018,ausfarm,V7,Visited,PTB,0,4,1
+27,C,910v1_v_st101,7,2018,ausfarm,V7,Visited,PTB,0,4,1
+27,D,910v1_v_st101,7,2018,ausfarm,V7,Visited,PTB,0,4,1
+27,E,910v1_v_st101,7,2018,ausfarm,V7,Visited,PTB,0,4,1
+158,A,169for_v_st106,7,2018,savio,V7,Visited,PTB,0,4,1
+158,B,169for_v_st106,7,2018,savio,V7,Visited,PTB,0,4,1
+158,C,169for_v_st106,7,2018,savio,V7,Visited,PTB,0,4,1
+158,D,169for_v_st106,7,2018,savio,V7,Visited,PTB,0,4,1
+158,E,169for_v_st106,7,2018,savio,V7,Visited,PTB,0,4,1
+197,A,169for_v_st205,7,2018,savio,V7,Visited,PTB,0,4,1
+197,B,169for_v_st205,7,2018,savio,V7,Visited,PTB,0,4,1
+197,C,169for_v_st205,7,2018,savio,V7,Visited,PTB,0,4,1
+214,A,219for_v_st224,7,2018,savio,V7,Visited,PTB,0,4,1
+214,B,219for_v_st224,7,2018,savio,V7,Visited,PTB,0,4,1
+214,C,219for_v_st224,7,2018,savio,V7,Visited,PTB,0,4,1
+214,D,219for_v_st224,7,2018,savio,V7,Visited,PTB,0,4,1
+218,A,910v1_v_st104,7,2018,ausfarm,V7,Visited,PTB,0,4,1
+218,B,910v1_v_st104,7,2018,ausfarm,V7,Visited,PTB,0,4,1
+218,C,910v1_v_st104,7,2018,ausfarm,V7,Visited,PTB,0,4,1
+218,D,910v1_v_st104,7,2018,ausfarm,V7,Visited,PTB,0,4,1
+218,E,910v1_v_st104,7,2018,ausfarm,V7,Visited,PTB,0,4,1
+283,E,910v1_v_st102,7,2018,ausfarm,V7,Visited,PTB,0,4,1
+283,D,910v1_v_st102,7,2018,ausfarm,V7,Visited,PTB,0,4,1
+283,C,910v1_v_st102,7,2018,ausfarm,V7,Visited,PTB,0,4,1
+283,B,910v1_v_st102,7,2018,ausfarm,V7,Visited,PTB,0,4,1
+283,A,910v1_v_st102,7,2018,ausfarm,V7,Visited,PTB,0,4,1
+69,a,910v1_v_st106,7,2018,ausfarm,V7,Visited,PTB,0,4,1
+69,b,910v1_v_st106,7,2018,ausfarm,V7,Visited,PTB,0,4,1
+69,c,910v1_v_st106,7,2018,ausfarm,V7,Visited,PTB,0,4,1
+69,d,910v1_v_st106,7,2018,ausfarm,V7,Visited,PTB,1,4,0
+94,a,219for_v_st124,7,2018,savio,V7,Visited,PTB,0,4,1
+94,b,219for_v_st124,7,2018,savio,V7,Visited,PTB,0,4,1
+94,c,219for_v_st124,7,2018,savio,V7,Visited,PTB,0,4,1
+94,d,219for_v_st124,7,2018,savio,V7,Visited,PTB,1,4,0
+94,e,219for_v_st124,7,2018,savio,V7,Visited,PTB,0,4,1
+184,A,199for_v_sta,8,2018,savio,V8,Visited,PTB,1,4,0
+184,B,199for_v_sta,8,2018,savio,V8,Visited,PTB,0,4,1
+184,C,199for_v_sta,8,2018,savio,V8,Visited,PTB,0,4,1
+184,D,199for_v_sta,8,2018,savio,V8,Visited,PTB,0,4,1
+292,E,910v1_v_st103,8,2018,ausfarm,V8,Visited,PTB,0,4,1
+292,D,910v1_v_st103,8,2018,ausfarm,V8,Visited,PTB,0,4,1
+292,C,910v1_v_st103,8,2018,ausfarm,V8,Visited,PTB,0,4,1
+292,B,910v1_v_st103,8,2018,ausfarm,V8,Visited,PTB,0,4,1
+292,A,910v1_v_st103,8,2018,ausfarm,V8,Visited,PTB,0,4,1
+138,A,219for_v_st222,8,2018,savio,V8,Visited,PTB,1,4,0
+138,B,219for_v_st222,8,2018,savio,V8,Visited,PTB,1,4,0
+138,C,219for_v_st222,8,2018,savio,V8,Visited,PTB,1,4,0
+138,D,219for_v_st222,8,2018,savio,V8,Visited,PTB,0,4,1
+138,E,219for_v_st222,8,2018,savio,V8,Visited,PTB,1,4,0
+39,a,209for_v_st209,8,2018,savio,V8,Visited,PTB,0,4,1
+39,b,209for_v_st209,8,2018,savio,V8,Visited,PTB,0,4,1
+39,c,209for_v_st209,8,2018,savio,V8,Visited,PTB,0,4,1
+39,d,209for_v_st209,8,2018,savio,V8,Visited,PTB,0,4,1
+173,A,169for_v_st105,9,2018,savio,V9,Visited,PTB,0,4,1
+173,B,169for_v_st105,9,2018,savio,V9,Visited,PTB,0,4,1
+173,C,169for_v_st105,9,2018,savio,V9,Visited,PTB,0,4,1
+173,D,169for_v_st105,9,2018,savio,V9,Visited,PTB,0,4,1
+121,a,209for_v_st214,9,2018,savio,V9,Visited,PTB,0,4,1
+121,b,209for_v_st214,9,2018,savio,V9,Visited,PTB,0,4,1
+121,c,209for_v_st214,9,2018,savio,V9,Visited,PTB,0,4,1
+121,d,209for_v_st214,9,2018,savio,V9,Visited,PTB,0,4,1
+121,e,209for_v_st214,9,2018,savio,V9,Visited,PTB,0,4,1
